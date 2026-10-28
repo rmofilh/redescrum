@@ -17,16 +17,19 @@ src/data/            db.py (conexão + exportação), carregar.py, reconstrucao.
                      inventario.py, amostra.py
 src/features/        construir_base.py (variáveis por Sprint × k, rótulos)
 src/models/          redes.py (Perceptron, Adaline, PMC com interface treinar/prever/escore), experimentos.py
-                     (experimentos 1–4 no formato do livro), relatorio.py (gera reports/resultados.md)
+                     (experimentos 1–4 no formato do livro), relatorio.py (gera reports/resultados.md),
+                     figuras_extras.py (matrizes de confusão)
 src/analise_sinal.py baselines B0/B1, regressão logística, MLP; GroupKFold por projeto e divisão temporal
+src/curva_media.py   curva média de % concluído ao longo da Sprint, por classe (base do guia das figuras)
 src/viz.py           estilo dos gráficos
 scripts/             rodar_tudo.sh (viabilidade, etapas 1–4), experimentos.sh (modelagem com as redes),
                      mysql_local.sh (MySQL 8.0.22 sem root, só para a reprodução completa)
 data/raw/csv/        resultados das consultas SQL (versionados: sem o dump, são eles que permitem refazer tudo)
 data/interim/        gerado: pertinência issue↔Sprint, itens e resumo por Sprint, inventário, amostra (fora do git)
 data/processed/      base_modelagem.csv, base_filtros.csv, balanceamento.csv
-reports/             viabilidade_scrum.md, esquema_tawos.md, decisoes.md, resultados.md, resultados_sinal.csv,
+reports/             viabilidade_scrum.md, esquema_tawos.md, decisoes.md, resultados.md, guia_figuras.md, resultados_sinal.csv,
                      ablacao_variaveis.csv, resultados/ (CSVs das redes), figures/ (figures/redes/ = modelagem)
+apresentacao/        apresentacao_scrum.pptx e .pdf (19 slides, com notas), gerar_apresentacao.py
 docker-compose.yml   MySQL 8.0.22 em contêiner (alternativa ao mysql_local.sh)
 ```
 
@@ -45,6 +48,8 @@ Não precisa de MySQL nem do dump.
 SKIP_SQL=1 scripts/rodar_tudo.sh   # ~2 min: reconstrução das Sprints, base de modelagem, análise de sinal
 scripts/experimentos.sh            # ~7 min: Perceptron, Adaline e PMC -> reports/resultados/, reports/resultados.md
 ```
+
+Apresentação: `.venv/bin/python apresentacao/gerar_apresentacao.py` (lê os CSVs e figuras de `reports/`); PDF com `libreoffice --headless --convert-to pdf --outdir apresentacao apresentacao/apresentacao_scrum.pptx`.
 
 Todas as etapas são determinísticas (sementes fixas); as tabelas de `reports/resultados/` saem idênticas.
 

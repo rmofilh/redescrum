@@ -5,3 +5,4 @@ scikit-learn
 sqlalchemy
 pymysql
 cryptography
+python-pptx
