@@ -29,3 +29,15 @@
 | 15 | `log1p` nas razões; regressão logística balanceada; MLP com sobreamostragem | caudas longas; desbalanceamento | vigente |
 | 16 | Lista de status "a fazer/aguardando" montada pelo assistente | define `itens_em_andamento_rel` | vigente |
 | 17 | Velocidade só com Sprints do mesmo projeto já encerradas no início | evitar vazamento | vigente |
+
+## Arrumação final (28/10/2026, autorizada pelo usuário)
+
+| Removido | Motivo |
+|---|---|
+| `data/raw/dump/` (TAWOS.sql, 4,1 GB; TAWOS.sql.zip, 609 MB; tempos de download e importação) | rebaixável pelo DOI 10.5522/04/21308124; os CSVs de `data/raw/csv/` bastam para refazer tudo |
+| Servidor MySQL local (`~/.local/share/tawos-mysql`, 6,5 GB; `~/.local/opt/mysql*`, 360 MB) | `scripts/mysql_local.sh install/init` recria |
+| Cenários L = 0,6 (figuras `metrica_vs_k_*_L06_*` e linhas de `resultados_sinal.csv`/`ablacao_variaveis.csv`) | descartados por D1; `analise_sinal.CENARIOS` só tem L = 0,8; números antigos ficam no relatório como registro (commit `5560aa1`) |
+| 17 dos 20 burndowns da amostra | não citados no relatório; `amostra.py` só desenha MULE_4351, MESOS_425 e TIMOB_4697 (as checagens das 20 continuam em `amostra_poc.csv`) |
+| `notebooks/01_viabilidade.ipynb` (e `jupyter`/`nbconvert` do `requirements.txt`) | só repetia tabelas e figuras dos relatórios |
+| `__pycache__/` | gerado pelo Python |
+| `data/interim/` sai do git (fica no disco) | regenerado por `rodar_tudo.sh` a partir dos CSVs |

@@ -9,6 +9,7 @@ PROJETOS_AMOSTRA = ["MESOS", "MULE", "TIMOB"]
 N_POR_PROJETO = {"MESOS": 7, "MULE": 7, "TIMOB": 6}
 LIMIARES = [0.8, 0.9, 1.0]
 SEMENTE = 42
+CITADAS = {"MULE_4351", "MESOS_425", "TIMOB_4697"}  # burndowns citados no relatório; só esses viram figura
 
 
 def burndown(itens_sprint, inicio, fim, unidade="sp"):
@@ -72,7 +73,8 @@ def main():
     for _, s in am.iterrows():
         it = itens[itens.sprint_id == s.sprint_id]
         bd = burndown(it, s.start_date, s.end_date)
-        plotar(s, bd, destino / f"{s.projeto}_{s.sprint_id}.png")
+        if f"{s.projeto}_{s.sprint_id}" in CITADAS:
+            plotar(s, bd, destino / f"{s.projeto}_{s.sprint_id}.png")
         # coerência: burndown nunca sobe no escopo comprometido; restante final bate com o rótulo
         checagens.append({
             "sprint_id": s.sprint_id,

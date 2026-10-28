@@ -166,7 +166,7 @@ Implementado em `src/data/reconstrucao.py` e `src/data/sprints_reconstruidas.py`
 5. **Story points:** valor vigente no início (comprometidos) ou na entrada (adicionados), congelado.
 6. **Burndown diário** (`src/data/amostra.py`): pontos restantes do comprometido e pontos restantes incluindo os adicionados.
 
-**Validação na amostra.** Foram 20 Sprints CLOSED com ≥ 5 itens e cobertura ≥ 70%, sorteadas com semente 42: 7 do MESOS, 7 do MULE e 6 do TIMOB (`data/interim/amostra_poc.csv`; gráficos em `figures/burndown_amostra/`). Nas 20, o *burndown* do comprometido é monotonicamente não crescente, e restante final + concluído + removido-não-concluído = comprometido. Na inspeção visual, os degraus coincidem com fechamentos de itens e as entradas aparecem como subidas da curva laranja. A incoerência investigada foi a do TIMOB "2019 Sprint 22": 5% concluído e 13 itens já fechados no início. Não é erro de reconstrução: a maioria dos itens comprometidos foi fechada de 1 a 9 meses depois (mediana de 176 dias após o fim), já em 2019, quando o projeto estava em declínio. No conjunto todo, 1.101 Sprints não têm nenhum item comprometido, quase todas do CONFSERVER e CONFCLOUD, cujas issues públicas raramente estão em Sprints. Elas caem no filtro de ≥ 5 itens.
+**Validação na amostra.** Foram 20 Sprints CLOSED com ≥ 5 itens e cobertura ≥ 70%, sorteadas com semente 42: 7 do MESOS, 7 do MULE e 6 do TIMOB (`data/interim/amostra_poc.csv`; gráficos das 3 Sprints abaixo em `figures/burndown_amostra/`). Nas 20, o *burndown* do comprometido é monotonicamente não crescente, e restante final + concluído + removido-não-concluído = comprometido. Na inspeção visual, os degraus coincidem com fechamentos de itens e as entradas aparecem como subidas da curva laranja. A incoerência investigada foi a do TIMOB "2019 Sprint 22": 5% concluído e 13 itens já fechados no início. Não é erro de reconstrução: a maioria dos itens comprometidos foi fechada de 1 a 9 meses depois (mediana de 176 dias após o fim), já em 2019, quando o projeto estava em declínio. No conjunto todo, 1.101 Sprints não têm nenhum item comprometido, quase todas do CONFSERVER e CONFCLOUD, cujas issues públicas raramente estão em Sprints. Elas caem no filtro de ≥ 5 itens.
 
 ![Burndown MULE SDK Qin 4](figures/burndown_amostra/MULE_4351.png)
 ![Burndown MESOS Mesosphere Sprint 28](figures/burndown_amostra/MESOS_425.png)
@@ -269,6 +269,8 @@ Variáveis (unidade SP): `pct_tempo`, `pct_pontos_concluidos`, `pontos_adicionad
 
 #### SP, L=0,6 — GroupKFold por projeto
 
+*(cenário descartado por D1; valores do commit `5560aa1`, cujos arquivos foram removidos na arrumação final)*
+
 | Modelo | k=0,3 | k=0,5 | k=0,7 |
 |---|---|---|---|
 | B0 — classe majoritária | 0,75 / 0,50 / 0,00 / – | 0,75 / 0,50 / 0,00 / – | 0,75 / 0,50 / 0,00 / – |
@@ -278,6 +280,8 @@ Variáveis (unidade SP): `pct_tempo`, `pct_pontos_concluidos`, `pontos_adicionad
 
 
 #### SP, L=0,6 — temporal por projeto
+
+*(cenário descartado por D1; valores do commit `5560aa1`, cujos arquivos foram removidos na arrumação final)*
 
 | Modelo | k=0,3 | k=0,5 | k=0,7 |
 |---|---|---|---|
@@ -311,6 +315,8 @@ Variáveis (unidade SP): `pct_tempo`, `pct_pontos_concluidos`, `pontos_adicionad
 
 #### itens, L=0,6 — GroupKFold por projeto
 
+*(cenário descartado por D1; valores do commit `5560aa1`, cujos arquivos foram removidos na arrumação final)*
+
 | Modelo | k=0,3 | k=0,5 | k=0,7 |
 |---|---|---|---|
 | B0 — classe majoritária | 0,70 / 0,50 / 0,00 / – | 0,70 / 0,50 / 0,00 / – | 0,70 / 0,50 / 0,00 / – |
@@ -321,6 +327,8 @@ Variáveis (unidade SP): `pct_tempo`, `pct_pontos_concluidos`, `pontos_adicionad
 
 #### itens, L=0,6 — temporal por projeto
 
+*(cenário descartado por D1; valores do commit `5560aa1`, cujos arquivos foram removidos na arrumação final)*
+
 | Modelo | k=0,3 | k=0,5 | k=0,7 |
 |---|---|---|---|
 | B0 — classe majoritária | 0,72 / 0,50 / 0,00 / – | 0,72 / 0,50 / 0,00 / – | 0,72 / 0,50 / 0,00 / – |
@@ -330,10 +338,9 @@ Variáveis (unidade SP): `pct_tempo`, `pct_pontos_concluidos`, `pontos_adicionad
 
 </details>
 
-![Métrica × k — SP, L=0,6, GroupKFold](figures/metrica_vs_k_SP_L06_group.png)
 ![Métrica × k — SP, L=0,8, GroupKFold](figures/metrica_vs_k_SP_L08_group.png)
 
-Os demais cenários estão em `figures/metrica_vs_k_*.png`.
+Os demais cenários L = 0,8 estão em `figures/metrica_vs_k_*.png`; as figuras de L = 0,6 foram removidas na arrumação final (cenário descartado por D1).
 
 **Leitura dos resultados:**
 
@@ -353,6 +360,8 @@ Os demais cenários estão em `figures/metrica_vs_k_*.png`.
   | SP, L=0,6 | todas − compromisso_vs_velocidade | 0,72 | 0,83 | 0,87 |
   | SP, L=0,6 | todas − itens_em_andamento_rel | 0,77 | 0,84 | 0,88 |
   | SP, L=0,6 | todas − adicionados_rel | 0,76 | 0,84 | 0,88 |
+
+  As linhas de L = 0,6 são do commit `5560aa1` (cenário descartado por D1); o `ablacao_variaveis.csv` atual só tem L = 0,8.
 
   `pct_tempo` + `% concluído` sozinhos já dão quase toda a AUC. `compromisso_vs_velocidade` é a única variável extra que agrega de forma consistente, sobretudo cedo (+0,01 a +0,04 de AUC em *k* = 0,3), justamente quando o alerta é mais útil. `itens_em_andamento_rel` e `adicionados_rel` não agregam nada mensurável.
 - A MLP pequena não supera a regressão logística de forma consistente: o problema, com estas variáveis, é quase linearmente separável. Na divisão temporal os números são parecidos ou um pouco melhores, então não há sinal de vazamento por projeto.

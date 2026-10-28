@@ -4,7 +4,8 @@
    diferentes; pesos finais, nº de épocas, convergência; curvas de erro por época.
 2. Figura: Sprints coloridas por classe, diagonal do burndown ideal (B1) e retas aprendidas.
 3. PMC com todas as variáveis: topologia (5, 10, 15) por validação cruzada; 5 treinamentos; loss_curve_.
-4. Avaliação fora da dobra (GroupKFold por projeto) de B0, B1, Perceptron, Adaline e PMC em k = 0,3/0,5/0,7.
+4. Avaliação fora da dobra (GroupKFold por projeto) de B0, B1, Perceptron, Adaline e PMC em k = 0,3/0,5/0,7;
+   as predições por Sprint ficam em exp4_predicoes.csv.
 
 Cenários (decisões D1–D3 em reports/decisoes.md): principal SP com L = 0,8; robustez itens com L = 0,8;
 sensibilidade SP com L = 0,8 sem o projeto DM.
@@ -161,7 +162,11 @@ def avaliar_cenario(d, cols):
         for nome, (p, s) in candidatos.items():
             tn, fp, fn, tp = confusion_matrix(yk, p, labels=[0, 1]).ravel()
             linhas.append({"modelo": nome, "k": k, **A.metricas(yk, p, s), "VN": tn, "FP": fp, "FN": fn, "VP": tp})
-    return pd.DataFrame(linhas), pd.DataFrame(topologias)
+    # predições fora da dobra por Sprint × k (tabela de amostras de teste, no estilo do livro)
+    predicoes = d[["sprint_id", "projeto", "k", *cols]].assign(
+        desejada=y, B1=((d[pct] - d.pct_tempo) >= 0).astype(int),
+        **{f"{n}_saida": preds[n] for n in escores}, **{f"{n}_escore": escores[n] for n in escores})
+    return pd.DataFrame(linhas), pd.DataFrame(topologias), predicoes
 
 
 def figura_metrica_k(res, titulo, caminho):
@@ -198,10 +203,11 @@ def main():
     figura_loss_pmc(curvas3, n, FIG / "exp3_pmc_loss_curve.png")
     print(f"exp3 ok (topologia {n})")
 
-    todos, topos = [], []
+    todos, topos, predicoes = [], [], []
     for chave, (titulo, *_rest) in CENARIOS.items():
         dc, cc = base_cenario(base, chave)
-        res, top = avaliar_cenario(dc, cc)
+        res, top, pred = avaliar_cenario(dc, cc)
+        predicoes.append(pred.assign(cenario=titulo))
         res = res.assign(cenario=titulo, n_sprints=dc.sprint_id.nunique(), n_projetos=dc.projeto.nunique(),
                          pct_positivos=dc[dc.k == 0.5].y.mean())
         todos.append(res); topos.append(top.assign(cenario=titulo))
@@ -209,6 +215,7 @@ def main():
         print(f"exp4 {chave} ok")
     pd.concat(todos).to_csv(SAIDA / "exp4_avaliacao.csv", index=False)
     pd.concat(topos).to_csv(SAIDA / "exp4_topologias_por_dobra.csv", index=False)
+    pd.concat(predicoes).to_csv(SAIDA / "exp4_predicoes.csv", index=False)
 
 
 if __name__ == "__main__":

@@ -27,8 +27,8 @@ KS = [0.3, 0.5, 0.7]
 REPORTS = carregar.ROOT / "reports"
 
 # (nome, unidade, L), em ordem de importância (decisões D1 e D2 em reports/decisoes.md):
-# principal SP com L=0,8; robustez itens com L=0,8; sensibilidade L=0,6 nas duas unidades
-CENARIOS = [("SP, L=0,8", "sp", 80), ("itens, L=0,8", "itens", 80), ("SP, L=0,6", "sp", 60), ("itens, L=0,6", "itens", 60)]
+# principal SP com L=0,8; robustez itens com L=0,8 (L=0,6 foi descartado por D1)
+CENARIOS = [("SP, L=0,8", "sp", 80), ("itens, L=0,8", "itens", 80)]
 
 
 def variaveis(unidade):

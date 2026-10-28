@@ -5,5 +5,3 @@ scikit-learn
 sqlalchemy
 pymysql
 cryptography
-jupyter
-nbconvert
