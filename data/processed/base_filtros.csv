@@ -1,0 +1,8 @@
+etapa,n_sprints
+Sprints na tabela Sprint,4594
+com Start_Date e End_Date válidos,4542
+State = CLOSED,4506
+duração 5-31 dias,4323
+>= 5 itens comprometidos,2027
+cobertura de SP >= 70%,1166
+SP comprometidos > 0,1166

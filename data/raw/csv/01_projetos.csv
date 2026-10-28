@@ -1,0 +1,40 @@
+project_id,projeto,nome,repositorio,n_issues,n_sprints
+1,XD,Spring XD,Spring,3707,66
+2,DATACASS,Spring DataCass,Spring,798,54
+3,NEXUS,Sonatype Nexus,Sonatype,9912,143
+4,MESOS,Apache Mesos,Apache,10157,227
+5,USERGRID,Apache Usergrid,Apache,1339,38
+6,MXNET,Apache MXNet,Apache,1404,41
+7,ALOY,Alloy Framework,Appcelerator,1519,118
+8,APSTUD,Aptana Studio,Appcelerator,8135,12
+9,CLI,Command-Line Interface,Appcelerator,645,98
+10,DAEMON,Appcelerator Daemon,Appcelerator,313,62
+11,TIDOC,Titanium Mobile Platform,Appcelerator,3059,217
+12,TIMOB,The Titanium SDK ,Appcelerator,22059,301
+13,TISTUD,Appcelerator Studio,Appcelerator,5979,163
+14,BAM,Atlassian Bamboo ,Atlassian,14252,14
+15,CLOV,Atlassian Clover,Atlassian,1501,48
+16,CWD,Atlassian Crowd,Atlassian,4311,44
+17,FE,Atlassian FishEye,Atlassian,5533,109
+18,JRASERVER,Atlassian Jira Server,Atlassian,44165,50
+19,JSWCLOUD,Atlassian Software Cloud,Atlassian,11702,74
+20,JSWSERVER,Atlassian Atlassian Software Server,Atlassian,12862,70
+21,CONFCLOUD,Atlassian Confluence Cloud,Atlassian,23409,477
+22,CONFSERVER,Atlassian Confluence Server,Atlassian,42324,565
+23,BE,Hyperledger Blockchain Explorer,Hyperledger,802,47
+24,FAB,Hyperledger Fabric,Hyperledger,13682,142
+25,INDY,Hyperledger Indy Node,Hyperledger,2321,76
+26,IS,Hyperledger Indy SDK,Hyperledger,1531,75
+27,STL,Hyperledger Sawtooth,Hyperledger,1663,22
+28,DM,Lsstcorp Data management,Lsstcorp,26506,396
+29,DURACLOUD,Lyrasis Dura Cloud,Lyrasis,1125,7
+30,COMPASS,MongoDB Compass ,MongoDB,1791,91
+31,CXX,The Mongo C++ driver,MongoDB,2032,56
+32,JAVA,The Mongo Java driver,MongoDB,3560,46
+33,SERVER,MongoDB Core Server,MongoDB,48663,0
+34,MDL,Moodle,Moodle,66741,151
+35,APIKIT,Mule APIkit,Mulesoft,886,124
+36,MULE,Mule,Mulesoft,11816,311
+42,DNN,DotNetNuke Platform,DNNTracker,10060,0
+43,EVG,The MongoDB Engineering,MongoDB,10299,0
+44,JRACLOUD,Atlassian Jira Cloud,Atlassian,25669,59

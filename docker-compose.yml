@@ -1,0 +1,23 @@
+services:
+  mysql:
+    image: mysql:8.0.22
+    container_name: tawos-mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: tawos
+      MYSQL_DATABASE: TAWOS
+      MYSQL_USER: tawos
+      MYSQL_PASSWORD: tawos
+    command:
+      - --max_allowed_packet=1G
+      - --innodb_buffer_pool_size=1G
+      - --innodb_log_file_size=512M
+      - --innodb_flush_log_at_trx_commit=2
+      - --skip-log-bin
+      - --secure-file-priv=
+    ports:
+      - "3307:3306"
+    volumes:
+      - tawos_data:/var/lib/mysql
+      - ./data/raw/dump:/dump:ro
+volumes:
+  tawos_data:

@@ -1,0 +1,478 @@
+projeto,status,resolution,n
+ALOY,Closed,Fixed,165
+ALOY,Resolved,Fixed,56
+ALOY,Closed,Invalid,13
+ALOY,Resolved,Won't Fix,7
+ALOY,Closed,Won't Fix,7
+ALOY,Resolved,Cannot Reproduce,4
+ALOY,Open,,4
+ALOY,Closed,Duplicate,3
+ALOY,Closed,Cannot Reproduce,3
+ALOY,Reopened,,3
+ALOY,Resolved,Duplicate,3
+ALOY,Resolved,Hold,1
+ALOY,Closed,Won't Do,1
+ALOY,Resolved,Won't Do,1
+ALOY,Resolved,Not Our Bug,1
+APIKIT,Closed,Fixed,123
+APIKIT,Done,Completed,121
+APIKIT,Closed,Completed,94
+APIKIT,Done,Done,44
+APIKIT,Resolved,Done,23
+APIKIT,Closed,Won't Fix or Usage Issue,22
+APIKIT,Closed,Done,20
+APIKIT,Closed,Duplicate,13
+APIKIT,Done,Fixed,11
+APIKIT,Closed,Cannot Reproduce,10
+APIKIT,Done,Won't Do,6
+APIKIT,Done,Duplicate,6
+APIKIT,Open,,3
+APIKIT,Closed,Rejected,2
+APIKIT,Done,Won't Fix or Usage Issue,1
+APIKIT,Closed,Works as Designed,1
+APIKIT,New,,1
+APSTUD,Resolved,Fixed,3
+APSTUD,Closed,Fixed,1
+APSTUD,Resolved,Won't Fix,1
+APSTUD,Open,,1
+BAM,Closed,Fixed,33
+BAM,Closed,Duplicate,6
+BAM,Closed,Timed out,5
+BAM,Not Being Considered,,4
+BAM,Closed,Obsolete,2
+BAM,Closed,Won't Fix,2
+BE,Complete,Done,496
+BE,To Do,,19
+BE,In Progress,,5
+CLI,Closed,Fixed,173
+CLI,Resolved,Fixed,53
+CLI,Closed,Duplicate,12
+CLI,Closed,Cannot Reproduce,9
+CLI,Resolved,Cannot Reproduce,9
+CLI,Closed,Won't Fix,7
+CLI,Open,,4
+CLI,Reopened,,3
+CLI,Closed,Won't Do,3
+CLI,Closed,Not Our Bug,2
+CLI,Resolved,Done,2
+CLI,Resolved,Invalid,2
+CLI,Resolved,Not Our Bug,1
+CLI,Resolved,Won't Do,1
+CLI,Resolved,Won't Fix,1
+CLI,In Review,,1
+CLOV,Closed,Fixed,144
+CLOV,Closed,Won't Fix,10
+CLOV,Closed,Obsolete,3
+CLOV,Closed,Cannot Reproduce,2
+CLOV,Closed,Invalid,2
+CLOV,Closed,Tracked Elsewhere,2
+CLOV,Closed,Duplicate,2
+COMPASS,Closed,Fixed,338
+COMPASS,Closed,Done,329
+COMPASS,Closed,Won't Fix,28
+COMPASS,Open,,17
+COMPASS,Closed,Works as Designed,17
+COMPASS,Closed,Cannot Reproduce,17
+COMPASS,Closed,Gone away,16
+COMPASS,Closed,Duplicate,13
+COMPASS,Ready for Work,,11
+COMPASS,Closed,Declined,6
+COMPASS,Needs Triage,,4
+COMPASS,Debugging With Submitter,,2
+COMPASS,Closed,Won't Do,2
+COMPASS,Closed,Community Answered,1
+COMPASS,Closed,Incomplete,1
+COMPASS,In Progress,,1
+CONFCLOUD,Closed,Fixed,761
+CONFCLOUD,Closed,Done,35
+CONFCLOUD,Closed,Obsolete,28
+CONFCLOUD,Closed,Timed out,25
+CONFCLOUD,Closed,Won't Fix,20
+CONFCLOUD,Closed,Duplicate,19
+CONFCLOUD,Closed,Cannot Reproduce,14
+CONFCLOUD,Gathering Impact,,12
+CONFCLOUD,Closed,Tracked Elsewhere,12
+CONFCLOUD,Gathering Interest,,11
+CONFCLOUD,Short Term Backlog,,8
+CONFCLOUD,Closed,Invalid,6
+CONFCLOUD,Closed,Answered,4
+CONFCLOUD,Closed,Not a bug,4
+CONFCLOUD,Long Term Backlog,,3
+CONFCLOUD,Closed,Handled by Support,2
+CONFCLOUD,Closed,Support Request,2
+CONFCLOUD,In Progress,,2
+CONFCLOUD,Closed,Won't Do,2
+CONFCLOUD,Closed,Deployed,1
+CONFCLOUD,Closed,Resolved Locally,1
+CONFCLOUD,Closed,Unsolved Mysteries,1
+CONFCLOUD,Closed,,1
+CONFSERVER,Closed,Fixed,986
+CONFSERVER,Closed,Won't Fix,33
+CONFSERVER,Closed,Obsolete,27
+CONFSERVER,Closed,Cannot Reproduce,25
+CONFSERVER,Gathering Impact,,19
+CONFSERVER,Closed,Duplicate,16
+CONFSERVER,Closed,Timed out,14
+CONFSERVER,Long Term Backlog,,11
+CONFSERVER,Closed,Not a bug,10
+CONFSERVER,Short Term Backlog,,9
+CONFSERVER,Closed,Tracked Elsewhere,8
+CONFSERVER,Closed,Answered,7
+CONFSERVER,Closed,Done,6
+CONFSERVER,Closed,Invalid,5
+CONFSERVER,In Progress,,5
+CONFSERVER,Closed,Won't Do,5
+CONFSERVER,Closed,Resolved Locally,4
+CONFSERVER,Waiting for Release,,4
+CONFSERVER,Gathering Interest,,3
+CONFSERVER,Awaiting Merge,,2
+CONFSERVER,Closed,Support Request,2
+CONFSERVER,Not Being Considered,,2
+CONFSERVER,Closed,Handled by Support,2
+CONFSERVER,Ready for Development,,1
+CONFSERVER,Closed,Unsolved Mysteries,1
+CWD,Closed,Fixed,144
+CWD,Gathering Interest,,4
+CWD,Closed,Won't Fix,3
+CWD,Long Term Backlog,,2
+CWD,Closed,Obsolete,2
+CWD,Closed,Duplicate,1
+CWD,Closed,Tracked Elsewhere,1
+CWD,Closed,Cannot Reproduce,1
+CWD,Under Consideration,,1
+CWD,Closed,Not a bug,1
+CXX,Closed,Fixed,395
+CXX,Closed,Works as Designed,29
+CXX,Closed,Done,19
+CXX,Closed,Won't Fix,16
+CXX,Closed,Duplicate,16
+CXX,Closed,Incomplete,9
+CXX,Closed,Gone away,7
+CXX,Open,,7
+CXX,Closed,Cannot Reproduce,1
+CXX,Closed,Community Answered,1
+DAEMON,Resolved,Fixed,181
+DAEMON,Resolved,Invalid,6
+DAEMON,Resolved,Won't Fix,6
+DAEMON,Resolved,Duplicate,4
+DAEMON,Resolved,Won't Do,4
+DAEMON,Closed,Done,2
+DAEMON,In Progress,,2
+DAEMON,Closed,Fixed,2
+DAEMON,Closed,Cannot Reproduce,2
+DAEMON,Resolved,Cannot Reproduce,1
+DAEMON,Open,,1
+DAEMON,Closed,Won't Do,1
+DATACASS,Closed,Complete,209
+DATACASS,Closed,Fixed,123
+DATACASS,Resolved,Complete,13
+DATACASS,Closed,Duplicate,11
+DATACASS,Closed,Works as Designed,6
+DATACASS,Resolved,Fixed,5
+DATACASS,Closed,Won't Fix,4
+DATACASS,Open,,4
+DATACASS,Closed,Done,1
+DATACASS,Resolved,Won't Fix,1
+DATACASS,Resolved,Works as Designed,1
+DATACASS,Closed,Incomplete,1
+DM,Done,Done,7889
+DM,To Do,,279
+DM,Won't Fix,Done,254
+DM,Invalid,Done,127
+DM,In Progress,,108
+DM,In Review,,17
+DM,Reviewed,,8
+DM,In Progress,Done,2
+DURACLOUD,Closed,Fixed,76
+DURACLOUD,Closed,Done,10
+DURACLOUD,Open,,8
+DURACLOUD,Closed,Cannot Reproduce,3
+DURACLOUD,Closed,Ready for Test,1
+DURACLOUD,Closed,Won't Fix,1
+DURACLOUD,Closed,Answered,1
+FAB,Closed,Done,2247
+FAB,Closed,Won't Do,123
+FAB,Closed,Duplicate,68
+FAB,To Do,,52
+FAB,Backlog,,50
+FAB,Closed,Invalid,39
+FAB,In Progress,,36
+FAB,In CR Review,,23
+FAB,Closed,Invalid: Works as Expected,8
+FAB,Closed,Invalid: Environment Issue,6
+FAB,Unverified,,2
+FE,Closed,Fixed,124
+FE,Closed,Answered,2
+FE,Closed,Obsolete,2
+FE,Closed,Timed out,2
+FE,Gathering Impact,,1
+FE,Short Term Backlog,,1
+FE,Closed,Duplicate,1
+FE,Closed,Won't Fix,1
+INDY,Complete,Done,1047
+INDY,Complete,Invalid,43
+INDY,Complete,Won't Do,27
+INDY,Complete,Invalid: Environment Issue,8
+INDY,Complete,Duplicate,6
+INDY,New,,6
+INDY,To Develop,,5
+INDY,Complete,Deferred,2
+INDY,In Progress,,2
+INDY,Complete,Cannot Reproduce,1
+IS,Complete,Done,830
+IS,Complete,Invalid,25
+IS,New,,16
+IS,To Develop,,14
+IS,Complete,Duplicate,6
+IS,Code Review,,5
+IS,Complete,Won't Do,5
+IS,In Progress,,4
+IS,Complete,Cannot Reproduce,3
+IS,Complete,Deferred,2
+IS,Complete,Invalid: Works as Expected,2
+IS,Complete,Invalid: Environment Issue,1
+IS,To Test,,1
+IS,In Progress,Done,1
+JAVA,Closed,Fixed,762
+JAVA,Closed,Won't Fix,26
+JAVA,Closed,Duplicate,13
+JAVA,Closed,Works as Designed,7
+JAVA,Open,,2
+JRACLOUD,Closed,Fixed,179
+JRACLOUD,Closed,Done,16
+JRACLOUD,Closed,Invalid,10
+JRACLOUD,Closed,Won't Fix,9
+JRACLOUD,Closed,Duplicate,7
+JRACLOUD,Closed,Tracked Elsewhere,4
+JRACLOUD,Gathering Interest,,4
+JRACLOUD,Closed,Not a bug,2
+JRACLOUD,Closed,Won't Do,2
+JRACLOUD,Under Consideration,,1
+JRACLOUD,Closed,Obsolete,1
+JRACLOUD,Closed,Answered,1
+JRASERVER,Closed,Fixed,199
+JRASERVER,Closed,Done,18
+JRASERVER,Closed,Won't Do,11
+JRASERVER,Closed,Won't Fix,10
+JRASERVER,Gathering Interest,,7
+JRASERVER,Closed,Timed out,6
+JRASERVER,Gathering Impact,,3
+JRASERVER,Needs Triage,,2
+JRASERVER,Closed,Obsolete,2
+JRASERVER,Closed,Duplicate,2
+JRASERVER,Closed,Not a bug,1
+JRASERVER,Closed,Incomplete,1
+JRASERVER,Closed,Answered,1
+JSWCLOUD,Closed,Fixed,895
+JSWCLOUD,Closed,Won't Fix,19
+JSWCLOUD,Closed,Cannot Reproduce,10
+JSWCLOUD,Closed,Obsolete,10
+JSWCLOUD,Closed,Not a bug,8
+JSWCLOUD,Closed,Duplicate,8
+JSWCLOUD,Closed,Tracked Elsewhere,5
+JSWCLOUD,Closed,Done,4
+JSWCLOUD,Closed,Invalid,3
+JSWCLOUD,Closed,Answered,2
+JSWCLOUD,Closed,Timed out,2
+JSWCLOUD,Gathering Interest,,1
+JSWCLOUD,Closed,Resolved Locally,1
+JSWSERVER,Closed,Fixed,865
+JSWSERVER,Closed,Won't Fix,22
+JSWSERVER,Closed,Cannot Reproduce,17
+JSWSERVER,Closed,Duplicate,13
+JSWSERVER,Closed,Tracked Elsewhere,11
+JSWSERVER,Closed,Obsolete,9
+JSWSERVER,Closed,Not a bug,8
+JSWSERVER,Closed,Invalid,3
+JSWSERVER,Closed,Unsolved Mysteries,3
+JSWSERVER,Closed,Done,3
+JSWSERVER,Closed,Timed out,2
+JSWSERVER,Closed,Answered,2
+JSWSERVER,Needs Triage,,1
+JSWSERVER,Closed,Resolved Locally,1
+JSWSERVER,Closed,Handled by Support,1
+MDL,Closed,Fixed,1797
+MDL,Closed,Done,81
+MDL,Closed,Deferred,63
+MDL,Closed,Duplicate,52
+MDL,Closed,Won't Fix,42
+MDL,Open,,33
+MDL,Closed,Not a bug,22
+MDL,Closed,Cannot Reproduce,15
+MDL,Development in progress,,11
+MDL,Reopened,,8
+MDL,Integration review in progress,,5
+MDL,Closed,Won't Do,4
+MDL,Peer review in progress,,1
+MDL,Waiting for peer review,,1
+MDL,Tested,,1
+MESOS,Resolved,Fixed,2356
+MESOS,Resolved,Done,168
+MESOS,Accepted,,72
+MESOS,Resolved,Duplicate,54
+MESOS,Resolved,Implemented,50
+MESOS,Resolved,Won't Fix,48
+MESOS,Open,,37
+MESOS,Reviewable,,25
+MESOS,Resolved,Cannot Reproduce,18
+MESOS,In Progress,,16
+MESOS,Resolved,Not A Problem,11
+MESOS,Resolved,Won't Do,10
+MESOS,Resolved,Resolved,7
+MESOS,Resolved,Abandoned,3
+MESOS,Resolved,Invalid,3
+MESOS,Resolved,Incomplete,2
+MESOS,Resolved,Not A Bug,2
+MESOS,Resolved,Later,1
+MESOS,Resolved,Feedback Received,1
+MESOS,Resolved,Workaround,1
+MESOS,Resolved,Pending Closed,1
+MESOS,Accepted,Implemented,1
+MULE,Closed,Fixed,1254
+MULE,Done,Completed,624
+MULE,Done,Fixed,512
+MULE,Resolved,Done,373
+MULE,Closed,Completed,248
+MULE,Closed,Won't Fix or Usage Issue,119
+MULE,Done,Done,102
+MULE,New,,89
+MULE,Open,,64
+MULE,Done,Won't Fix or Usage Issue,49
+MULE,Closed,Done,36
+MULE,Closed,Cannot Reproduce,31
+MULE,Done,Duplicate,29
+MULE,Done,Won't Do,26
+MULE,Closed,Duplicate,25
+MULE,Closed,Won't Do,24
+MULE,Resolved,Works as Designed,23
+MULE,Resolved,Fixed,21
+MULE,Resolved,Completed,9
+MULE,Resolved,Cannot Reproduce,9
+MULE,Done,Incomplete,6
+MULE,Resolved,Won't Fix or Usage Issue,5
+MULE,Resolved,Duplicate,4
+MULE,Done,Abandoned,3
+MULE,Done,Rejected,2
+MULE,In Progress,,2
+MULE,Done,Cannot Reproduce,1
+MULE,Resolved,Incomplete,1
+MULE,Closed,Works as Designed,1
+MULE,Closed,Rejected,1
+MXNET,Done,,211
+MXNET,To Do,,57
+MXNET,Done,Fixed,56
+MXNET,In Progress,,21
+MXNET,In Review,,16
+MXNET,Done,Done,5
+MXNET,Done,Workaround,2
+MXNET,Done,Cannot Reproduce,2
+MXNET,Done,Information Provided,1
+MXNET,Done,Not A Problem,1
+MXNET,Done,Not A Bug,1
+MXNET,Done,Later,1
+NEXUS,Closed,Fixed,978
+NEXUS,Done,Fixed,50
+NEXUS,Closed,Won't Fix,27
+NEXUS,Closed,Done,19
+NEXUS,Closed,Cannot Reproduce,11
+NEXUS,Done,Done,10
+NEXUS,Closed,Duplicate,6
+NEXUS,Closed,Not A Bug,4
+NEXUS,Closed,Out of scope,3
+NEXUS,Done,Won't Fix,2
+NEXUS,Closed,Incomplete,2
+NEXUS,Closed,Won't Do,1
+NEXUS,Open,,1
+NEXUS,Done,Duplicate,1
+STL,Complete,Done,837
+STL,Backlog,,42
+STL,In Progress,,4
+TIDOC,Closed,Fixed,918
+TIDOC,Resolved,Fixed,44
+TIDOC,Closed,Won't Fix,31
+TIDOC,Closed,Duplicate,18
+TIDOC,Open,,14
+TIDOC,Closed,Done,10
+TIDOC,Closed,Invalid,9
+TIDOC,Closed,Won't Do,9
+TIDOC,In Progress,,5
+TIDOC,Closed,Cannot Reproduce,4
+TIDOC,Closed,Hold,3
+TIDOC,Resolved,Done,1
+TIDOC,Closed,Needs more info,1
+TIDOC,In Review,,1
+TIDOC,Resolved,Duplicate,1
+TIDOC,Resolved,Won't Do,1
+TIMOB,Closed,Fixed,3322
+TIMOB,Closed,Invalid,150
+TIMOB,Closed,Duplicate,145
+TIMOB,Closed,Done,129
+TIMOB,Closed,Won't Fix,118
+TIMOB,Closed,Not Our Bug,81
+TIMOB,Open,,78
+TIMOB,Closed,Cannot Reproduce,68
+TIMOB,Closed,Won't Do,62
+TIMOB,Resolved,Cannot Reproduce,33
+TIMOB,Resolved,,31
+TIMOB,Resolved,Fixed,27
+TIMOB,Resolved,Not Our Bug,20
+TIMOB,Resolved,Duplicate,16
+TIMOB,Reopened,,14
+TIMOB,Resolved,Hold,11
+TIMOB,Closed,Needs more info,11
+TIMOB,Resolved,Won't Do,10
+TIMOB,In Progress,,9
+TIMOB,Resolved,Done,9
+TIMOB,Closed,Hold,8
+TIMOB,In Review,,7
+TIMOB,Resolved,Needs more info,7
+TIMOB,Resolved,Won't Fix,5
+TIMOB,Resolved,Invalid,5
+TIMOB,In QE Test,,3
+TISTUD,Closed,Fixed,1113
+TISTUD,Closed,Cannot Reproduce,61
+TISTUD,Open,,56
+TISTUD,Closed,Duplicate,50
+TISTUD,Closed,Invalid,36
+TISTUD,Resolved,Fixed,36
+TISTUD,Closed,Won't Fix,16
+TISTUD,Closed,Not Our Bug,14
+TISTUD,Reopened,,8
+TISTUD,Resolved,Invalid,6
+TISTUD,Resolved,Cannot Reproduce,6
+TISTUD,Closed,Needs more info,5
+TISTUD,In Review,,2
+TISTUD,Resolved,Not Our Bug,2
+TISTUD,Resolved,Needs more info,2
+TISTUD,Resolved,Won't Fix,2
+TISTUD,Resolved,Duplicate,1
+TISTUD,Resolved,Hold,1
+TISTUD,Closed,Done,1
+USERGRID,Closed,Fixed,332
+USERGRID,Closed,Done,39
+USERGRID,Open,,24
+USERGRID,Closed,Not A Problem,12
+USERGRID,Closed,Duplicate,12
+USERGRID,Closed,Won't Fix,12
+USERGRID,Closed,Cannot Reproduce,5
+USERGRID,Resolved,Fixed,4
+USERGRID,In Progress,,4
+USERGRID,Closed,Implemented,4
+USERGRID,Closed,Incomplete,3
+USERGRID,Resolved,Done,2
+USERGRID,Patch Available,,1
+USERGRID,Closed,Invalid,1
+USERGRID,Closed,Abandoned,1
+USERGRID,Reopened,,1
+USERGRID,Resolved,Won't Fix,1
+XD,Done,Complete,2055
+XD,Done,Duplicate,25
+XD,Done,Won't Fix,20
+XD,Done,Works as Designed,20
+XD,Done,Invalid,12
+XD,Done,Cannot Reproduce,8
+XD,Done,Fixed,5
+XD,Done,Deferred,5
+XD,To Do,,4
+XD,In Progress,,1
+XD,Done,Incomplete,1

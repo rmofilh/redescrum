@@ -1,0 +1,1573 @@
+projeto,de,para,n
+ALOY,Open,In Progress,202
+ALOY,Resolved,Closed,201
+ALOY,In Progress,Resolved,98
+ALOY,In Progress,In Review,88
+ALOY,In Review,Resolved,85
+ALOY,Open,Resolved,70
+ALOY,Resolved,Reopened,66
+ALOY,Reopened,Resolved,45
+ALOY,In Progress,In  Review,40
+ALOY,In  Review,Resolved,38
+ALOY,Closed,Reopened,35
+ALOY,Reopened,In Progress,35
+ALOY,Closed,Closed,28
+ALOY,In Progress,Open,15
+ALOY,Reopened,Closed,13
+ALOY,Open,Closed,11
+ALOY,Reopened,In Review,4
+ALOY,In Review,In QE Test,4
+ALOY,In QE Test,Resolved,4
+ALOY,In Review,In Progress,4
+ALOY,In  Review,In Progress,2
+ALOY,In Progress,Closed,2
+ALOY,Reopened,In  Review,1
+ALOY,Resolved,Resolved,1
+APIKIT,Open,In Progress,261
+APIKIT,Resolved,Closed,248
+APIKIT,In Progress,Resolved,175
+APIKIT,New,In Progress,166
+APIKIT,In Progress,Code Review,128
+APIKIT,In Progress,Done,92
+APIKIT,Code Review,Resolved,71
+APIKIT,Open,Closed,37
+APIKIT,New,Done,37
+APIKIT,Open,Resolved,33
+APIKIT,To Do,In Progress,29
+APIKIT,Code Review,Done,27
+APIKIT,In Progress,New,27
+APIKIT,In Progress,Open,25
+APIKIT,Closed,Reopened,23
+APIKIT,In Validation,Done,19
+APIKIT,Closed,Done,19
+APIKIT,To Be Reviewed,Closed,16
+APIKIT,Reopened,Resolved,14
+APIKIT,Resolved,Open,13
+APIKIT,Reopened,In Progress,13
+APIKIT,Resolved,Reopened,12
+APIKIT,Development Complete,To Be Reviewed,11
+APIKIT,Code Review,In Validation,11
+APIKIT,In Progress,Development Complete,10
+APIKIT,Code Review,In Progress,10
+APIKIT,Reopened,Closed,8
+APIKIT,Closed,Open,8
+APIKIT,In Progress,Accepted,8
+APIKIT,In Progress,In Validation,8
+APIKIT,In Progress,To Be Reviewed,8
+APIKIT,TO DO,Open,7
+APIKIT,In Progress,Closed,7
+APIKIT,Code Review,Closed,7
+APIKIT,TO DO,Closed,6
+APIKIT,Open,New,4
+APIKIT,Done,New,4
+APIKIT,Accepted,In Progress,4
+APIKIT,Accepted,Closed,4
+APIKIT,To Be Reviewed,Resolved,3
+APIKIT,In Progress,Pending 3rd-Party,3
+APIKIT,Resolved,In Progress,3
+APIKIT,New,Accepted,2
+APIKIT,Accepted,Resolved,2
+APIKIT,To Do,Done,2
+APIKIT,Triaged,In Progress,2
+APIKIT,Done,Closed,2
+APIKIT,Pending 3rd-Party,In Progress,2
+APIKIT,Accepted,Triaged,1
+APIKIT,New,Open,1
+APIKIT,Pending 3rd-Party,Development Complete,1
+APIKIT,In Progress,Triaged,1
+APIKIT,Assessed,In Progress,1
+APIKIT,Waiting for Assessment approval,Assessed,1
+APIKIT,Assessment,Waiting for Assessment approval,1
+APIKIT,Open,Assessment,1
+APIKIT,To Be Reviewed,In Progress,1
+APIKIT,Pending 3rd-Party,Resolved,1
+APIKIT,Resolved,Pending 3rd-Party,1
+APIKIT,TO DO,To Be Reviewed,1
+APIKIT,Done,Accepted,1
+APIKIT,Code Review,Code Review,1
+APIKIT,Code Review,Open,1
+APIKIT,TO DO,New,1
+APSTUD,Open,In Progress,3
+APSTUD,In Review,Resolved,2
+APSTUD,Open,Resolved,2
+APSTUD,In Progress,In Review,2
+APSTUD,Closed,Closed,1
+APSTUD,In Progress,Resolved,1
+APSTUD,Resolved,Closed,1
+BAM,RESOLVED,Closed,45
+BAM,Open,In Progress,28
+BAM,Open,Resolved,22
+BAM,In Progress,Resolved,17
+BAM,In Progress,To be reviewed,8
+BAM,Open,Gathering Interest,8
+BAM,Gathering Interest,Not Being Considered,7
+BAM,To be reviewed,Resolved,5
+BAM,Needs Triage,Open,3
+BAM,Not Being Considered,Gathering Interest,3
+BAM,Gathering Interest,Closed,3
+BAM,In Progress,Open,3
+BAM,Accepted,Open,3
+BAM,Open,Needs Triage,2
+BAM,To be reviewed,Accepted,2
+BAM,Resolved,Needs Triage,1
+BAM,Accepted,Resolved,1
+BAM,Open,Accepted,1
+BAM,Resolved,Open,1
+BAM,Gathering Interest,Resolved,1
+BAM,In Progress,Accepted,1
+BAM,To be reviewed,In Progress,1
+BAM,Awaiting Review,Open,1
+BAM,Needs Triage,Resolved,1
+BE,To Do,In Progress,412
+BE,In Progress,In Review,241
+BE,In Review,Done,170
+BE,In Progress,Done,149
+BE,In Review,Complete,102
+BE,To Do,In Review,40
+BE,In Progress,Complete,35
+BE,In Progress,In Progress,34
+BE,To Do,Done,34
+BE,To Do,Complete,27
+BE,In Review,In Progress,18
+BE,In Review,In Review,10
+BE,Done,In Review,10
+BE,In Progress,To Do,8
+BE,Done,In Progress,6
+BE,Done,Done,6
+BE,In Review,To Do,4
+BE,To Do,To Do,3
+BE,Complete,In Review,3
+BE,Complete,Complete,3
+BE,Complete,In Progress,2
+CLI,Resolved,Closed,195
+CLI,Open,In Progress,186
+CLI,In Progress,In  Review,137
+CLI,In  Review,Resolved,123
+CLI,Open,Resolved,83
+CLI,In Review,Resolved,54
+CLI,In Progress,In Review,42
+CLI,Resolved,Reopened,40
+CLI,Reopened,Resolved,35
+CLI,Open,Closed,31
+CLI,Closed,Closed,21
+CLI,In Progress,Open,21
+CLI,Closed,Reopened,20
+CLI,Reopened,In Progress,11
+CLI,In  Review,In Progress,9
+CLI,In Progress,Resolved,9
+CLI,Reopened,In  Review,8
+CLI,In Review,In Progress,3
+CLI,Reopened,In Review,3
+CLOV,RESOLVED,Closed,170
+CLOV,Open,In Progress,144
+CLOV,To be reviewed,Resolved,85
+CLOV,In Progress,To be reviewed,75
+CLOV,Closed,Resolved,65
+CLOV,In Progress,Implemented,36
+CLOV,Implemented,To be reviewed,31
+CLOV,In Progress,Closed,27
+CLOV,Implemented,Resolved,20
+CLOV,To be reviewed,Closed,20
+CLOV,Open,Closed,15
+CLOV,Open,Implemented,14
+CLOV,In Progress,Open,10
+CLOV,Reopened,In Progress,2
+CLOV,Open,Verified,2
+CLOV,Implemented,Reopened,1
+CLOV,Needs Verification,In Progress,1
+CLOV,Reopened,Needs Verification,1
+CLOV,Closed,Open,1
+CLOV,Resolved,Reopened,1
+CLOV,Verified,Resolved,1
+CLOV,Reopened,Implemented,1
+CLOV,Verified,Implemented,1
+CLOV,Needs Verification,Verified,1
+CLOV,To be reviewed,Reopened,1
+CLOV,Open,Needs Verification,1
+CLOV,Verified,In Progress,1
+CLOV,Closed,Reopened,1
+COMPASS,Ready for Work,In Progress,344
+COMPASS,In Code Review,Closed,305
+COMPASS,Needs Triage,Ready for Work,291
+COMPASS,In Progress,Closed,260
+COMPASS,In Progress,In Code Review,241
+COMPASS,Needs Triage,Open,150
+COMPASS,Needs Triage,Closed,104
+COMPASS,Needs Triage,In Progress,90
+COMPASS,Open,In Progress,77
+COMPASS,Ready for Work,Closed,66
+COMPASS,Open,Closed,48
+COMPASS,Ready for Work,In Code Review,25
+COMPASS,Needs Triage,Debugging With Submitter,23
+COMPASS,Needs Triage,In Code Review,23
+COMPASS,Closed,Open,21
+COMPASS,Open,In Code Review,19
+COMPASS,Debugging With Submitter,Closed,18
+COMPASS,Open,Ready for Work,16
+COMPASS,In Progress,Ready for Work,12
+COMPASS,Open,Open,11
+COMPASS,Open,Needs Triage,10
+COMPASS,In Progress,Waiting (Blocked),10
+COMPASS,Closed,In Progress,10
+COMPASS,Debugging With Submitter,Open,9
+COMPASS,In Progress,In Progress,9
+COMPASS,Waiting (Blocked),Closed,9
+COMPASS,Open,Debugging With Submitter,8
+COMPASS,Waiting (Blocked),In Progress,8
+COMPASS,Ready for Work,Waiting (Blocked),7
+COMPASS,In Progress,Open,7
+COMPASS,Needs Triage,Waiting (Blocked),7
+COMPASS,Ready for Work,Open,7
+COMPASS,Ready for Work,Needs Triage,7
+COMPASS,Debugging With Submitter,Needs Triage,6
+COMPASS,Waiting (Blocked),Ready for Work,6
+COMPASS,In Code Review,In Progress,6
+COMPASS,Closed,Closed,5
+COMPASS,Closed,In Code Review,5
+COMPASS,Open,Waiting (Blocked),5
+COMPASS,Closed,Ready for Work,4
+COMPASS,Waiting (Blocked),In Code Review,4
+COMPASS,In Progress,Debugging With Submitter,3
+COMPASS,Closed,Needs Triage,3
+COMPASS,Ready for Work,Ready for Work,2
+COMPASS,In Progress,Needs Triage,2
+COMPASS,Waiting (Blocked),Open,2
+COMPASS,In Code Review,Ready for Work,2
+COMPASS,Waiting (Blocked),Needs Triage,2
+COMPASS,Ready for Work,Debugging With Submitter,2
+COMPASS,In Code Review,Waiting (Blocked),2
+COMPASS,Resolved,Closed,1
+COMPASS,Needs Triage,Resolved,1
+COMPASS,In Code Review,Needs Triage,1
+COMPASS,Needs Triage,Needs Triage,1
+COMPASS,Debugging With Submitter,Debugging With Submitter,1
+COMPASS,In Code Review,Open,1
+COMPASS,Needs Triage,Investigating,1
+COMPASS,Investigating,Needs Triage,1
+COMPASS,Debugging With Submitter,In Progress,1
+CONFCLOUD,Resolved,Closed,879
+CONFCLOUD,Closed,Closed,257
+CONFCLOUD,Closed,Resolved,256
+CONFCLOUD,Open,In Progress,193
+CONFCLOUD,Triage,Open,170
+CONFCLOUD,Under Review,Closed,134
+CONFCLOUD,In Progress,Under Review,117
+CONFCLOUD,In Progress,Closed,104
+CONFCLOUD,Triage,In Progress,88
+CONFCLOUD,Needs Verification,Open,75
+CONFCLOUD,Needs Triage,Gathering Impact,60
+CONFCLOUD,Open,Closed,48
+CONFCLOUD,Open,Needs Triage,41
+CONFCLOUD,In Progress,Technical Review,39
+CONFCLOUD,Awaiting Merge,Awaiting Release,33
+CONFCLOUD,In Progress,Open,31
+CONFCLOUD,Gathering Impact,Closed,26
+CONFCLOUD,Closed,Under Review,26
+CONFCLOUD,Technical Review,Awaiting Merge,25
+CONFCLOUD,Awaiting Release,Resolved,23
+CONFCLOUD,Under Review,In Progress,23
+CONFCLOUD,Waiting for Release,Closed,21
+CONFCLOUD,Triage,Closed,20
+CONFCLOUD,Open,Open,20
+CONFCLOUD,In Progress,In Review,19
+CONFCLOUD,In Progress,Resolved,18
+CONFCLOUD,Open,Resolved,17
+CONFCLOUD,In Review,Waiting for Release,15
+CONFCLOUD,Open,Under Review,15
+CONFCLOUD,Short Term Backlog,In Progress,14
+CONFCLOUD,Released to Cloud,Resolved,14
+CONFCLOUD,Gathering Impact,In Progress,13
+CONFCLOUD,Gathering Impact,Short Term Backlog,13
+CONFCLOUD,Quality Review,Awaiting Merge,11
+CONFCLOUD,Awaiting Release,Released to Cloud,11
+CONFCLOUD,New,Open,10
+CONFCLOUD,Open,Gathering Interest,10
+CONFCLOUD,Closed,Open,10
+CONFCLOUD,Technical Review,Awaiting Quality Review,10
+CONFCLOUD,Needs Triage,Short Term Backlog,10
+CONFCLOUD,Open,Needs Verification,7
+CONFCLOUD,Resolved,Open,7
+CONFCLOUD,Awaiting Quality Review,Quality Review,7
+CONFCLOUD,Closed,Needs Triage,6
+CONFCLOUD,In Progress,Waiting for Release,6
+CONFCLOUD,Triage,Triage,5
+CONFCLOUD,In Progress,Short Term Backlog,5
+CONFCLOUD,Released to Server,Open,4
+CONFCLOUD,Needs Triage,In Progress,4
+CONFCLOUD,Open,Technical Review,4
+CONFCLOUD,Technical Review,In Progress,3
+CONFCLOUD,Technical Review,Quality Review,3
+CONFCLOUD,Short Term Backlog,Closed,3
+CONFCLOUD,Needs Triage,Long Term Backlog,3
+CONFCLOUD,Waiting for Support,Waiting for Customer,2
+CONFCLOUD,Waiting for Customer,Waiting for Support,2
+CONFCLOUD,Awaiting Merge,Resolved,2
+CONFCLOUD,Awaiting Quality Review,Awaiting Merge,2
+CONFCLOUD,Quality Review,Open,2
+CONFCLOUD,In Review,Closed,2
+CONFCLOUD,Short Term Backlog,Gathering Impact,2
+CONFCLOUD,Long Term Backlog,In Progress,2
+CONFCLOUD,In Review,In Progress,2
+CONFCLOUD,In Progress,Quality Review,2
+CONFCLOUD,Needs Verification,Resolved,2
+CONFCLOUD,Awaiting Merge,Quality Review,2
+CONFCLOUD,Technical Review,Technical Review,1
+CONFCLOUD,Quality Review,Technical Review,1
+CONFCLOUD,Waiting for Release,In Review,1
+CONFCLOUD,Technical Review,In Review,1
+CONFCLOUD,In Progress,Long Term Backlog,1
+CONFCLOUD,Awaiting Release,Awaiting Release,1
+CONFCLOUD,In Progress,Reviewing,1
+CONFCLOUD,Technical Review,Open,1
+CONFCLOUD,Technical Review,Resolved,1
+CONFCLOUD,Gathering Interest,Needs Triage,1
+CONFCLOUD,Quality Review,Resolved,1
+CONFCLOUD,Awaiting Quality Review,Resolved,1
+CONFCLOUD,Open - untriaged,New,1
+CONFCLOUD,Open - untriaged,Open,1
+CONFCLOUD,Gathering Interest,In Progress,1
+CONFCLOUD,In Progress,Gathering Impact,1
+CONFCLOUD,To Do,Open,1
+CONFCLOUD,Awaiting Merge,Waiting for Release,1
+CONFCLOUD,Reviewing,In Progress,1
+CONFCLOUD,Escalated,Open,1
+CONFCLOUD,Waiting for Support,Escalated,1
+CONFCLOUD,In Review,Long Term Backlog,1
+CONFCLOUD,Open,Waiting for Support,1
+CONFCLOUD,Closed,Triage,1
+CONFCLOUD,Under Review,Open,1
+CONFCLOUD,Long Term Backlog,Short Term Backlog,1
+CONFCLOUD,Short Term Backlog,Gathering Interest,1
+CONFCLOUD,In Review,Gathering Impact,1
+CONFCLOUD,Short Term Backlog,Long Term Backlog,1
+CONFSERVER,RESOLVED,Closed,1023
+CONFSERVER,Open,In Progress,887
+CONFSERVER,In Progress,Technical Review,377
+CONFSERVER,New,Open,331
+CONFSERVER,In Progress,Under Review,245
+CONFSERVER,Technical Review,Awaiting Quality Review,226
+CONFSERVER,Quality Review,Awaiting Merge,222
+CONFSERVER,In Progress,Resolved,212
+CONFSERVER,Under Review,Resolved,207
+CONFSERVER,Awaiting Quality Review,Quality Review,195
+CONFSERVER,Awaiting Merge,Resolved,190
+CONFSERVER,Open,Resolved,183
+CONFSERVER,Needs Verification,Open,182
+CONFSERVER,Awaiting Merge,Awaiting Release,148
+CONFSERVER,In Progress,In Review,137
+CONFSERVER,Open,Gathering Impact,128
+CONFSERVER,Short Term Backlog,In Progress,125
+CONFSERVER,In Review,Awaiting Merge,109
+CONFSERVER,Waiting for Release,Closed,96
+CONFSERVER,Awaiting Release,Resolved,94
+CONFSERVER,Resolved,Open,89
+CONFSERVER,Technical Review,Awaiting Merge,89
+CONFSERVER,In Progress,Open,78
+CONFSERVER,Gathering Impact,Short Term Backlog,77
+CONFSERVER,Technical Review,Quality Review,69
+CONFSERVER,Open,Needs Verification,68
+CONFSERVER,Closed,Resolved,68
+CONFSERVER,Awaiting Merge,Waiting for Release,66
+CONFSERVER,Open,Technical Review,52
+CONFSERVER,Needs Triage,Short Term Backlog,50
+CONFSERVER,Quality Review,Resolved,50
+CONFSERVER,Awaiting Quality Review,Awaiting Merge,40
+CONFSERVER,Long Term Backlog,Short Term Backlog,38
+CONFSERVER,Under Review,In Progress,38
+CONFSERVER,Awaiting Merge,Closed,37
+CONFSERVER,In Progress,Waiting for Release,34
+CONFSERVER,In Progress,Quality Review,33
+CONFSERVER,Released to Server,Resolved,31
+CONFSERVER,Awaiting Release,Released to Server,31
+CONFSERVER,New,In Progress,28
+CONFSERVER,In Progress,Closed,28
+CONFSERVER,In Progress,Awaiting Quality Review,26
+CONFSERVER,Open,Closed,25
+CONFSERVER,Short Term Backlog,Long Term Backlog,23
+CONFSERVER,Needs Triage,Long Term Backlog,22
+CONFSERVER,Technical Review,Resolved,22
+CONFSERVER,Gathering Impact,Long Term Backlog,22
+CONFSERVER,Gathering Impact,In Progress,21
+CONFSERVER,Quality Review,Open,20
+CONFSERVER,Resolved,Reopened,19
+CONFSERVER,Needs Triage,Gathering Impact,19
+CONFSERVER,Closed,Needs Triage,18
+CONFSERVER,Long Term Backlog,In Progress,17
+CONFSERVER,Awaiting Release,Released to Cloud,16
+CONFSERVER,Closed,Open,16
+CONFSERVER,Technical Review,In Progress,16
+CONFSERVER,Gathering Impact,Closed,16
+CONFSERVER,Ready for Development,In Progress,16
+CONFSERVER,Needs Triage,In Progress,15
+CONFSERVER,In Review,Waiting for Release,15
+CONFSERVER,Technical Review,Open,14
+CONFSERVER,Short Term Backlog,Closed,13
+CONFSERVER,Released to Cloud,Resolved,13
+CONFSERVER,In Progress,Short Term Backlog,12
+CONFSERVER,In Review,Closed,12
+CONFSERVER,Waiting for Release,Resolved,12
+CONFSERVER,In Progress,Ready for Development,11
+CONFSERVER,Gathering Interest,Reviewing,10
+CONFSERVER,Needs Verification,Gathering Interest,10
+CONFSERVER,Gathering Interest,Under Consideration,10
+CONFSERVER,Awaiting Quality Review,Resolved,10
+CONFSERVER,Under Consideration,In Progress,10
+CONFSERVER,Needs Verification,Resolved,9
+CONFSERVER,Reopened,In Progress,9
+CONFSERVER,Reopened,Open,8
+CONFSERVER,New,Resolved,8
+CONFSERVER,In Progress,Reviewing,7
+CONFSERVER,Reopened,Resolved,7
+CONFSERVER,Quality Review,Awaiting Quality Review,7
+CONFSERVER,Short Term Backlog,Gathering Impact,7
+CONFSERVER,Awaiting Quality Review,In Progress,7
+CONFSERVER,Reviewing,In Progress,7
+CONFSERVER,Short Term Backlog,Ready for Development,7
+CONFSERVER,Awaiting Release,Waiting for Release,6
+CONFSERVER,Awaiting Merge,Quality Review,6
+CONFSERVER,Closed,Reopened,6
+CONFSERVER,Awaiting Merge,In Review,6
+CONFSERVER,Gathering Interest,Needs Triage,6
+CONFSERVER,Awaiting Merge,Open,6
+CONFSERVER,Closed,Closed,6
+CONFSERVER,Awaiting Quality Review,Technical Review,5
+CONFSERVER,Ready for Development,Short Term Backlog,5
+CONFSERVER,Open - untriaged,Open,4
+CONFSERVER,Awaiting Merge,Done,4
+CONFSERVER,Open,Gathering Interest,4
+CONFSERVER,Awaiting Release,Awaiting Release,4
+CONFSERVER,Gathering Impact,Resolved,4
+CONFSERVER,Reviewing,Closed,4
+CONFSERVER,In Review,In Progress,4
+CONFSERVER,Needs Triage,Ready for Development,4
+CONFSERVER,Needs Verification,Verified,4
+CONFSERVER,Quality Review,Technical Review,4
+CONFSERVER,Gathering Interest,In Progress,4
+CONFSERVER,Waiting for Release,Awaiting Merge,4
+CONFSERVER,Reviewing,Resolved,4
+CONFSERVER,Reviewing,Under Consideration,3
+CONFSERVER,Under Consideration,Reviewing,3
+CONFSERVER,Long Term Backlog,Gathering Impact,3
+CONFSERVER,In Review,Done,3
+CONFSERVER,Gathering Interest,Resolved,3
+CONFSERVER,New,Needs Verification,3
+CONFSERVER,Waiting for Release,In Progress,3
+CONFSERVER,Released to Cloud,Open,3
+CONFSERVER,Resolved,Resolved,3
+CONFSERVER,Open,Needs Triage,2
+CONFSERVER,Waiting for Release,In Review,2
+CONFSERVER,In Progress,Long Term Backlog,2
+CONFSERVER,Open,Open - untriaged,2
+CONFSERVER,Technical Review,In Review,2
+CONFSERVER,In Review,Resolved,2
+CONFSERVER,Done,Resolved,2
+CONFSERVER,Awaiting Release,Open,2
+CONFSERVER,Done,Closed,2
+CONFSERVER,Needs Triage,Gathering Interest,2
+CONFSERVER,New,Needs Triage,2
+CONFSERVER,In Progress,Under Consideration,2
+CONFSERVER,Under Consideration,Short Term Backlog,2
+CONFSERVER,Awaiting Quality Review,Open,2
+CONFSERVER,Reviewing,Future Consideration,2
+CONFSERVER,Needs Verification,Needs Triage,2
+CONFSERVER,Verified,Reviewing,2
+CONFSERVER,Resolved,Needs Triage,2
+CONFSERVER,Reviewing,Not Being Considered,2
+CONFSERVER,In Review,Long Term Backlog,1
+CONFSERVER,New,Ready for Development,1
+CONFSERVER,Resolved,Gathering Interest,1
+CONFSERVER,Future Consideration,Resolved,1
+CONFSERVER,Awaiting Merge,In Progress,1
+CONFSERVER,Waiting for Release,Short Term Backlog,1
+CONFSERVER,Gathering Impact,Ready for Development,1
+CONFSERVER,Ready for Development,Open,1
+CONFSERVER,Short Term Backlog,Gathering Interest,1
+CONFSERVER,Needs Triage,Closed,1
+CONFSERVER,Done,Waiting for Release,1
+CONFSERVER,Ready for Development,Long Term Backlog,1
+CONFSERVER,Not Being Considered,Under Consideration,1
+CONFSERVER,Long Term Backlog,Closed,1
+CONFSERVER,Under Consideration,Not Being Considered,1
+CONFSERVER,To Do,Open,1
+CONFSERVER,Done,Awaiting Merge,1
+CONFSERVER,Verified,Open,1
+CONFSERVER,Open,Awaiting Merge,1
+CONFSERVER,In Progress,Gathering Impact,1
+CONFSERVER,In Review,Gathering Impact,1
+CONFSERVER,Done,Awaiting Release,1
+CONFSERVER,Needs Verification,Open - untriaged,1
+CONFSERVER,Gathering Interest,Open,1
+CONFSERVER,To Do,In Progress,1
+CONFSERVER,Open - untriaged,New,1
+CONFSERVER,Verified,Resolved,1
+CONFSERVER,Ready for Development,Gathering Impact,1
+CONFSERVER,Long Term Backlog,Ready for Development,1
+CONFSERVER,Future Consideration,In Progress,1
+CONFSERVER,Gathering Interest,Short Term Backlog,1
+CONFSERVER,Short Term Backlog,Resolved,1
+CONFSERVER,Reopened,Closed,1
+CWD,Resolved,Closed,153
+CWD,In Progress,Technical Review,140
+CWD,Open,In Progress,133
+CWD,Technical Review,Resolved,129
+CWD,Verified,In Progress,20
+CWD,Open,Verified,19
+CWD,In Progress,Resolved,15
+CWD,Open,Resolved,12
+CWD,Open,Needs Verification,10
+CWD,Technical Review,In Progress,10
+CWD,Resolved,Open,8
+CWD,In Progress,Open,7
+CWD,Needs Verification,Verified,5
+CWD,Needs Verification,Resolved,3
+CWD,Needs Verification,Gathering Interest,2
+CWD,Verified,Resolved,2
+CWD,Awaiting Review,Open,2
+CWD,Open,Gathering Interest,2
+CWD,Needs Triage,Open,1
+CWD,Verified,Under Consideration,1
+CWD,In Progress,Needs Verification,1
+CWD,Technical Review,Open,1
+CWD,Needs Verification,Needs Triage,1
+CWD,Needs Triage,Long Term Backlog,1
+CWD,Verified,Long Term Backlog,1
+CWD,Open,Closed,1
+CWD,Closed,Reopened,1
+CWD,Reopened,Open,1
+CXX,Open,In Progress,427
+CXX,In Progress,In Code Review,318
+CXX,Resolved,Closed,279
+CXX,In Code Review,Resolved,233
+CXX,In Code Review,Closed,98
+CXX,Needs Triage,Open,88
+CXX,In Progress,Closed,70
+CXX,Open,Closed,48
+CXX,In Progress,Resolved,43
+CXX,In Progress,Open,29
+CXX,Resolved,Reopened,27
+CXX,Open,In Code Review,21
+CXX,Open,Resolved,19
+CXX,Reopened,In Progress,15
+CXX,Closed,Reopened,14
+CXX,Reopened,Resolved,14
+CXX,Reopened,Closed,10
+CXX,In Code Review,In Progress,8
+CXX,Open,Open,7
+CXX,Needs Triage,Closed,5
+CXX,Waiting (Blocked),Open,5
+CXX,Closed,Open,5
+CXX,Needs Triage,In Progress,5
+CXX,Open,Waiting (Blocked),4
+CXX,Closed,Closed,4
+CXX,Open,Scheduled,4
+CXX,In Code Review,Waiting (Blocked),3
+CXX,In Code Review,Open,3
+CXX,Waiting (Blocked),In Progress,3
+CXX,Waiting (Blocked),Closed,3
+CXX,Scheduled,In Progress,3
+CXX,Needs Triage,In Code Review,3
+CXX,Needs Triage,Scheduled,3
+CXX,Resolved,Needs Triage,3
+CXX,Needs Triage,Waiting (Blocked),3
+CXX,Scheduled,Investigating,2
+CXX,In Progress,Waiting (Blocked),2
+CXX,Waiting (Blocked),In Code Review,2
+CXX,Scheduled,In Code Review,2
+CXX,Reopened,Open,2
+CXX,Debugging With Submitter,Open,2
+CXX,Needs Triage,Debugging With Submitter,2
+CXX,Closed,Waiting (Blocked),1
+CXX,Investigating,In Progress,1
+CXX,In Code Review,Needs Triage,1
+CXX,Investigating,Scheduled,1
+CXX,In Progress,Needs Triage,1
+CXX,Scheduled,Scheduled,1
+CXX,Scheduled,Closed,1
+CXX,Investigating,Open,1
+CXX,Open,Investigating,1
+CXX,Waiting for Support,Open,1
+CXX,Closed,In Progress,1
+CXX,In Progress,In Progress,1
+DAEMON,Open,In Progress,175
+DAEMON,In Progress,Resolved,113
+DAEMON,Open,Resolved,54
+DAEMON,In Progress,In Review,45
+DAEMON,In Review,Resolved,42
+DAEMON,In Progress,Open,22
+DAEMON,Resolved,Closed,7
+DAEMON,Resolved,Reopened,6
+DAEMON,Reopened,Resolved,6
+DAEMON,Closed,Reopened,4
+DAEMON,Open,Closed,4
+DAEMON,Reopened,In Progress,4
+DAEMON,In Review,In Progress,3
+DATACASS,Resolved,Closed,345
+DATACASS,Open,In Progress,159
+DATACASS,In Progress,Resolved,125
+DATACASS,Open,Resolved,115
+DATACASS,In Progress,Waiting for Review,64
+DATACASS,Done,Resolved,61
+DATACASS,To Do,In Progress,51
+DATACASS,In Progress,Done,45
+DATACASS,To Do,Open,38
+DATACASS,Investigating,Resolved,36
+DATACASS,Waiting for Review,Investigating,32
+DATACASS,Waiting for Review,Resolved,26
+DATACASS,Open,Investigating,22
+DATACASS,To Do,Done,21
+DATACASS,Waiting for Review,In Progress,19
+DATACASS,Investigating,In Progress,15
+DATACASS,Open,Waiting for Review,12
+DATACASS,In Progress,To Do,11
+DATACASS,Open,Closed,7
+DATACASS,Closed,Reopened,7
+DATACASS,Reopened,Closed,6
+DATACASS,Done,In Progress,5
+DATACASS,Reopened,Resolved,4
+DATACASS,In Progress,Open,4
+DATACASS,Resolved,Reopened,3
+DATACASS,Waiting for Feedback,In Progress,3
+DATACASS,Open,Waiting for Feedback,3
+DATACASS,In Progress,Waiting for Feedback,2
+DATACASS,Investigating,Waiting for Feedback,2
+DATACASS,Investigating,Closed,2
+DATACASS,In Progress,Closed,1
+DATACASS,Waiting for Feedback,Waiting for Review,1
+DATACASS,Waiting for Feedback,Closed,1
+DATACASS,Waiting for Feedback,Resolved,1
+DATACASS,Waiting for Feedback,Investigating,1
+DM,To Do,In Progress,6806
+DM,In Review,Reviewed,5342
+DM,Reviewed,Done,5286
+DM,In Progress,In Review,5241
+DM,In Progress,Done,1330
+DM,To Do,In Review,985
+DM,To Do,Done,630
+DM,In Review,Done,582
+DM,In Progress,To Do,276
+DM,In Review,In Progress,219
+DM,To Do,Won't Fix,191
+DM,In Review,Review Complete,171
+DM,Review Complete,Done,169
+DM,To Do,Invalid,129
+DM,Reviewed,In Review,108
+DM,In Review,In Review,93
+DM,Review,In Progress,88
+DM,Admin Review,In Progress,87
+DM,In Progress,Won't Fix,69
+DM,In Progress,In Progress,66
+DM,In Progress,Reviewed,64
+DM,Reviewed,Reviewed,59
+DM,Done,To Do,48
+DM,Done,In Progress,39
+DM,Unplanned,To Do,37
+DM,Invalid,To Do,28
+DM,Reviewed,In Progress,25
+DM,Done,Reviewed,25
+DM,To Do,To Do,24
+DM,To Do,Reviewed,20
+DM,Unplanned,In Progress,20
+DM,Done,In Review,17
+DM,In Progress,Invalid,16
+DM,Won't Fix,Done,16
+DM,Done,Done,16
+DM,In Review,Won't Fix,16
+DM,In Review,To Do,15
+DM,In Progress,Ready for Review,10
+DM,Ready for Review,In Review,10
+DM,Reviewed,Won't Fix,10
+DM,Won't Fix,To Do,8
+DM,Reviewed,To Do,7
+DM,Won't Fix,Invalid,7
+DM,In Review,Invalid,6
+DM,Reviewed,Invalid,6
+DM,Review Complete,In Review,6
+DM,To Do,Ready for Review,4
+DM,Invalid,Done,4
+DM,Done,Review Complete,4
+DM,Ready to Merge,Done,4
+DM,Invalid,In Progress,4
+DM,Won't Fix,In Progress,4
+DM,Reviewed,Resolved,3
+DM,In Progress,Review Complete,3
+DM,In Review,Ready to Merge,3
+DM,Resolved,Done,3
+DM,Done,Won't Fix,2
+DM,Review Complete,In Progress,2
+DM,To Do,Admin Review,2
+DM,Won't Fix,In Review,2
+DM,In Progress,Ready to Merge,2
+DM,Ready for Review,Ready to Merge,2
+DM,Invalid,Won't Fix,1
+DM,Ready to Merge,Ready to Merge,1
+DM,Review Complete,Review Complete,1
+DM,Review Complete,To Do,1
+DM,To Do,Review Complete,1
+DM,Review Complete,Won't Fix,1
+DM,Admin Review,Won't Fix,1
+DM,To Do,QA Review,1
+DM,Ready for Review,To Do,1
+DM,Ready to Merge,In Review,1
+DM,In Progress,Unplanned,1
+DM,Proposed Task,To Do,1
+DM,Ready for Review,In Progress,1
+DM,Proposed,To Do,1
+DM,Open,In Progress,1
+DURACLOUD,Open,In Progress,77
+DURACLOUD,In Progress,Closed,71
+DURACLOUD,Received,Open,19
+DURACLOUD,Open,Closed,18
+DURACLOUD,Open,Selected for Development,8
+DURACLOUD,Selected for Development,In Progress,7
+DURACLOUD,In Review,Closed,7
+DURACLOUD,In Progress,In Review,6
+DURACLOUD,In Progress,Open,6
+DURACLOUD,Selected for Development,Open,3
+DURACLOUD,Reopened,Closed,3
+DURACLOUD,Closed,Reopened,3
+DURACLOUD,Closed,In Review,2
+DURACLOUD,Closed,Open,2
+DURACLOUD,In Progress,Selected for Development,2
+DURACLOUD,In Review,In Review,1
+DURACLOUD,In Review,In Progress,1
+FAB,To Do,In Progress,1677
+FAB,Done,Closed,1546
+FAB,In Review,Done,838
+FAB,In Progress,In CR Review,775
+FAB,In CR Review,Closed,728
+FAB,In Progress,In Review,487
+FAB,To Do,Done,426
+FAB,To Do,In Review,395
+FAB,Backlog,To Do,360
+FAB,In Progress,Done,360
+FAB,To Do,Closed,126
+FAB,In Progress,To Do,108
+FAB,Unverified,To Do,76
+FAB,In Progress,In Progress,65
+FAB,In CR Review,In Progress,57
+FAB,To Do,Backlog,53
+FAB,In Progress,Closed,47
+FAB,Backlog,Closed,42
+FAB,In Review,In Progress,36
+FAB,Done,In Progress,36
+FAB,Done,In Review,31
+FAB,In Review,In CR Review,27
+FAB,Done,To Do,26
+FAB,Done,Done,21
+FAB,Closed,To Do,19
+FAB,In Progress,Backlog,19
+FAB,In Review,In Review,19
+FAB,Backlog,In Progress,18
+FAB,Invalid,Invalid,17
+FAB,Invalid,Closed,17
+FAB,Backlog,Done,16
+FAB,To Do,To Do,16
+FAB,To Do,Invalid,15
+FAB,Unverified,Closed,15
+FAB,In CR Review,In CR Review,11
+FAB,To Do,Unverified,8
+FAB,Closed,In Progress,8
+FAB,In Review,Backlog,6
+FAB,In Review,To Do,6
+FAB,Closed,In CR Review,5
+FAB,Backlog,Unverified,4
+FAB,Closed,Closed,4
+FAB,Done,Backlog,3
+FAB,Backlog,In Review,3
+FAB,Returned,Closed,2
+FAB,Duplicate,Closed,2
+FAB,Monitor / On Hold,Done,2
+FAB,In Review,Monitor / On Hold,2
+FAB,In Review,Invalid,1
+FAB,Unverified,Returned,1
+FAB,Closed,Unverified,1
+FAB,Backlog,In CR Review,1
+FAB,Done,Duplicate,1
+FAB,To Do,Returned,1
+FAB,Invalid,Monitor / On Hold,1
+FAB,Closed,Backlog,1
+FAB,In Progress,Invalid,1
+FAB,Unverified,Backlog,1
+FAB,Monitor / On Hold,Monitor / On Hold,1
+FAB,Unverified,In Progress,1
+FAB,Backlog,Invalid,1
+FAB,Duplicate,Duplicate,1
+FAB,In Review,Duplicate,1
+FAB,Unverified,Done,1
+FAB,Monitor / On Hold,In Review,1
+FAB,In Review,Blocked,1
+FAB,Blocked,In Review,1
+FE,Open,In Progress,112
+FE,Needs Triage,Open,111
+FE,To be reviewed,Closed,64
+FE,In Progress,To be reviewed,64
+FE,RESOLVED,Closed,40
+FE,Closed,Resolved,31
+FE,Quality Review,To be reviewed,28
+FE,In Progress,Quality Review,25
+FE,To be reviewed,Quality Review,25
+FE,Open,Closed,23
+FE,In Progress,Closed,22
+FE,Quality Review,Closed,17
+FE,Closed,Open,12
+FE,In Progress,Open,11
+FE,In Progress,Resolved,9
+FE,Under Consideration,In Progress,7
+FE,Gathering Interest,Under Consideration,6
+FE,Needs Triage,Closed,5
+FE,Quality Review,In Progress,5
+FE,Open,Gathering Impact,5
+FE,To be reviewed,In Progress,3
+FE,Gathering Interest,In Progress,3
+FE,Open,Gathering Interest,3
+FE,Gathering Impact,Closed,2
+FE,Future Consideration,In Progress,1
+FE,Gathering Interest,Future Consideration,1
+FE,Gathering Interest,Closed,1
+FE,Open,Needs Triage,1
+FE,New,Open,1
+FE,Waiting for Release,Closed,1
+FE,In Progress,Waiting for Release,1
+FE,Gathering Impact,In Progress,1
+FE,Gathering Impact,Short Term Backlog,1
+FE,Reviewing,Under Consideration,1
+FE,Gathering Interest,Reviewing,1
+INDY,New,In Progress,923
+INDY,Done,Done,838
+INDY,In Progress,Code Review,728
+INDY,Code Review,To Test,523
+INDY,To Test,Done,408
+INDY,In Progress,To Test,265
+INDY,Customer Validation,Done,223
+INDY,To Test,Customer Validation,219
+INDY,To Develop,In Progress,163
+INDY,Code Review,Done,142
+INDY,To Test,To Develop,122
+INDY,To Test,Complete,118
+INDY,New,To Test,98
+INDY,In Progress,Done,72
+INDY,Code Review,In Progress,67
+INDY,In Progress,To Develop,65
+INDY,Code Review,Complete,56
+INDY,New,Code Review,56
+INDY,To Test,In Progress,55
+INDY,Invalid,Done,44
+INDY,To Develop,To Test,37
+INDY,New,Complete,33
+INDY,In Progress,In Progress,31
+INDY,In Progress,Complete,29
+INDY,In Progress,New,26
+INDY,Won't Fix,Done,24
+INDY,Customer Validation,To Test,23
+INDY,New,Done,22
+INDY,To Test,Code Review,21
+INDY,New,Invalid,19
+INDY,New,New,18
+INDY,To Test,To Test,18
+INDY,Done,To Test,17
+INDY,In Progress,Customer Validation,16
+INDY,To Test,Invalid,14
+INDY,Code Review,Customer Validation,13
+INDY,Code Review,To Develop,12
+INDY,New,To Develop,10
+INDY,To Develop,Code Review,10
+INDY,Done,To Develop,10
+INDY,Code Review,Code Review,9
+INDY,To Develop,Customer Validation,9
+INDY,To Develop,Done,8
+INDY,To Test,Won't Fix,8
+INDY,Customer Validation,To Develop,7
+INDY,New,Won't Fix,6
+INDY,To Do,New,6
+INDY,Complete,To Develop,6
+INDY,Done,Customer Validation,6
+INDY,Customer Validation,Invalid,6
+INDY,Done,In Progress,5
+INDY,Icebox,Done,5
+INDY,New,Customer Validation,5
+INDY,Customer Validation,Won't Fix,5
+INDY,Done,Code Review,4
+INDY,To Develop,Complete,4
+INDY,In Progress,Won't Fix,4
+INDY,Code Review,Icebox,3
+INDY,Won't Fix,To Develop,3
+INDY,In Progress,Invalid,3
+INDY,In Progress,Icebox,3
+INDY,Code Review,New,2
+INDY,To Develop,To Develop,2
+INDY,Code Review,Won't Fix,2
+INDY,Done,New,2
+INDY,Done,Invalid,2
+INDY,Complete,To Test,2
+INDY,Customer Validation,Complete,2
+INDY,Customer Validation,Code Review,2
+INDY,To Develop,Won't Fix,2
+INDY,In Progress,Design,2
+INDY,To Do,To Develop,1
+INDY,In Progress,To Do,1
+INDY,To Do,In Progress,1
+INDY,Icebox,To Test,1
+INDY,To Test,Icebox,1
+INDY,Won't Fix,Invalid,1
+INDY,Design,To Develop,1
+INDY,Icebox,Invalid,1
+INDY,Invalid,To Test,1
+INDY,Done,Icebox,1
+INDY,To Develop,New,1
+INDY,Done,Won't Fix,1
+INDY,Icebox,To Develop,1
+INDY,Customer Validation,In Progress,1
+INDY,Invalid,To Develop,1
+INDY,New,To Do,1
+INDY,To Test,New,1
+INDY,Design,In Progress,1
+INDY,Invalid,Customer Validation,1
+INDY,Code Review,Invalid,1
+IS,To Do,In Progress,528
+IS,Validate,Done,379
+IS,In Progress,Review,339
+IS,Review,Validate,321
+IS,New,In Progress,145
+IS,To Test,Complete,139
+IS,In Progress,Code Review,124
+IS,Code Review,To Test,116
+IS,Review,Done,93
+IS,In Review,Done,92
+IS,To Do,Review,89
+IS,In Progress,In Review,82
+IS,In Progress,Validate,55
+IS,In Progress,Done,54
+IS,To Do,To Develop,48
+IS,In Progress,To Do,47
+IS,To Do,Done,46
+IS,To Do,Validate,41
+IS,Code Review,Complete,27
+IS,Review,In Progress,26
+IS,Invalid,Done,25
+IS,To Develop,In Progress,24
+IS,To Do,In Review,20
+IS,In Progress,To Test,20
+IS,New,Code Review,19
+IS,In Progress,Complete,18
+IS,Validate,In Progress,18
+IS,Invalid,Invalid,18
+IS,To Develop,Complete,18
+IS,To Do,Invalid,18
+IS,New,To Do,15
+IS,Validate,To Do,13
+IS,In Progress,In Progress,12
+IS,New,Complete,12
+IS,In Progress,New,11
+IS,New,To Test,11
+IS,In Review,In Progress,10
+IS,In Review,Review,7
+IS,Validate,Review,7
+IS,Done,Validate,6
+IS,Validate,Invalid,6
+IS,Done,Review,6
+IS,In Progress,To Develop,6
+IS,Done,In Review,5
+IS,Complete,To Develop,5
+IS,Done,To Do,5
+IS,Review,Code Review,5
+IS,To Test,Code Review,4
+IS,Code Review,In Progress,4
+IS,To Do,To Do,4
+IS,To Develop,Code Review,4
+IS,Done,In Progress,3
+IS,Customer Validation,Complete,3
+IS,New,New,3
+IS,Code Review,New,3
+IS,To Test,To Develop,2
+IS,New,Customer Validation,2
+IS,Review,To Do,2
+IS,Done,Done,2
+IS,Review,In Review,2
+IS,Validate,Validate,2
+IS,To Test,In Progress,2
+IS,To Develop,To Test,2
+IS,Complete,In Progress,2
+IS,Done,To Develop,2
+IS,Done,Invalid,1
+IS,Design,Complete,1
+IS,Code Review,Customer Validation,1
+IS,Code Review,Design,1
+IS,Design,Code Review,1
+IS,New,To Develop,1
+IS,Customer Validation,To Test,1
+IS,To Develop,Done,1
+IS,To Test,Done,1
+IS,Invalid,Review,1
+IS,To Develop,Design,1
+IS,To Test,Customer Validation,1
+IS,In Progress,Invalid,1
+IS,Review,Review,1
+IS,In Review,In Review,1
+IS,Code Review,Code Review,1
+IS,Unverified,New,1
+JAVA,Open,In Progress,708
+JAVA,In Progress,In Code Review,681
+JAVA,In Code Review,Resolved,521
+JAVA,Resolved,Closed,484
+JAVA,In Code Review,Closed,115
+JAVA,In Progress,Closed,108
+JAVA,Open,Closed,100
+JAVA,In Code Review,In Progress,65
+JAVA,In Progress,Open,58
+JAVA,Reopened,In Progress,45
+JAVA,Needs Triage,Open,40
+JAVA,Needs Triage,In Progress,35
+JAVA,Needs Triage,Closed,35
+JAVA,Resolved,Reopened,32
+JAVA,Resolved,Needs Triage,31
+JAVA,Closed,Reopened,21
+JAVA,In Progress,Resolved,18
+JAVA,Open,In Code Review,10
+JAVA,Needs Triage,Debugging With Submitter,10
+JAVA,Open,Scheduled,8
+JAVA,Closed,Open,8
+JAVA,Reopened,Resolved,7
+JAVA,Closed,In Progress,7
+JAVA,Needs Triage,In Code Review,6
+JAVA,Scheduled,In Progress,5
+JAVA,Waiting (Blocked),In Code Review,4
+JAVA,In Code Review,Open,4
+JAVA,Debugging With Submitter,In Code Review,4
+JAVA,Debugging With Submitter,Closed,3
+JAVA,Open,Open,3
+JAVA,In Code Review,Waiting (Blocked),3
+JAVA,Debugging With Submitter,Open,3
+JAVA,Scheduled,Open,3
+JAVA,Waiting (Blocked),Debugging With Submitter,2
+JAVA,Open,Debugging With Submitter,2
+JAVA,Open,Needs Triage,2
+JAVA,Closed,In Code Review,2
+JAVA,In Progress,Waiting (Blocked),2
+JAVA,Debugging With Submitter,Debugging With Submitter,1
+JAVA,In Progress,In Progress,1
+JAVA,Waiting for Triage,Needs Triage,1
+JAVA,Scheduled,In Code Review,1
+JAVA,Debugging With Submitter,Waiting (Blocked),1
+JAVA,Waiting (Blocked),In Progress,1
+JAVA,Debugging With Submitter,In Progress,1
+JAVA,Open,Resolved,1
+JAVA,Needs Triage,Waiting (Blocked),1
+JAVA,Debugging With Submitter,Investigating,1
+JAVA,Investigating,Closed,1
+JAVA,Open,Investigating,1
+JAVA,Investigating,Scheduled,1
+JAVA,Reopened,Needs Triage,1
+JAVA,Debugging With Submitter,Needs Triage,1
+JRACLOUD,RESOLVED,Closed,230
+JRACLOUD,Closed,Resolved,36
+JRACLOUD,Verified,Resolved,35
+JRACLOUD,Open,Verified,29
+JRACLOUD,Soaking,Resolved,13
+JRACLOUD,Awaiting Soak,Soaking,13
+JRACLOUD,Open,Closed,12
+JRACLOUD,Awaiting Development,Awaiting Soak,9
+JRACLOUD,In Progress,Resolved,7
+JRACLOUD,Open,Awaiting Development,7
+JRACLOUD,Awaiting Development,In Progress,7
+JRACLOUD,Verified,Awaiting Development,7
+JRACLOUD,Resolved,Open,5
+JRACLOUD,Open,Resolved,5
+JRACLOUD,Open,Gathering Interest,4
+JRACLOUD,Awaiting Soak,In Progress,3
+JRACLOUD,Technical Review,Awaiting Soak,2
+JRACLOUD,In Progress,Technical Review,2
+JRACLOUD,In Progress,Awaiting Development,2
+JRACLOUD,Awaiting Development,Open,1
+JRACLOUD,Closed,Open,1
+JRACLOUD,Needs Verification,Resolved,1
+JRACLOUD,Verified,Awaiting Soak,1
+JRACLOUD,Verified,Under Consideration,1
+JRACLOUD,Awaiting Soak,Awaiting Soak,1
+JRASERVER,Resolved,Closed,396
+JRASERVER,Closed,Resolved,173
+JRASERVER,Open,Verified,128
+JRASERVER,Verified,Resolved,80
+JRASERVER,Open,Resolved,70
+JRASERVER,Awaiting Development,In Progress,48
+JRASERVER,In Progress,Resolved,38
+JRASERVER,Open,Closed,33
+JRASERVER,Open,Awaiting Development,33
+JRASERVER,Verified,Awaiting Development,33
+JRASERVER,Awaiting Soak,Soaking,33
+JRASERVER,Soaking,Resolved,33
+JRASERVER,Technical Review,Awaiting Soak,20
+JRASERVER,In Progress,Technical Review,20
+JRASERVER,Open,Gathering Interest,14
+JRASERVER,Resolved,Open,14
+JRASERVER,Awaiting Development,Awaiting Soak,13
+JRASERVER,Awaiting Soak,In Progress,12
+JRASERVER,Open,Needs Verification,9
+JRASERVER,New,Open,9
+JRASERVER,Awaiting Development,Open,8
+JRASERVER,Needs Verification,Resolved,7
+JRASERVER,Gathering Interest,Resolved,7
+JRASERVER,Verified,Awaiting Soak,7
+JRASERVER,Verified,Open,6
+JRASERVER,Closed,Open,5
+JRASERVER,Open,Awaiting Soak,5
+JRASERVER,Verified,Gathering Impact,3
+JRASERVER,In Progress,Awaiting Development,3
+JRASERVER,ToDo,ToDo,2
+JRASERVER,Needs Verification,Verified,2
+JRASERVER,Open,In Progress,2
+JRASERVER,Open - untriaged,Open,1
+JRASERVER,Awaiting Release,Resolved,1
+JRASERVER,Verified,Awaiting Release,1
+JRASERVER,Open,Needs Triage,1
+JRASERVER,In Progress,Open,1
+JRASERVER,New,Resolved,1
+JRASERVER,Awaiting Review,Open,1
+JRASERVER,Needs Verification,Needs Triage,1
+JSWCLOUD,RESOLVED,Closed,1332
+JSWCLOUD,In Progress,Awaiting Quality Review,1109
+JSWCLOUD,Awaiting Quality Review,Quality Review,1061
+JSWCLOUD,Open,In Progress,1006
+JSWCLOUD,Quality Review,Awaiting Deployment,643
+JSWCLOUD,Awaiting Deployment,Resolved,632
+JSWCLOUD,Closed,Resolved,383
+JSWCLOUD,Quality Review,Resolved,201
+JSWCLOUD,Quality Review,In Progress,164
+JSWCLOUD,In Progress,Open,124
+JSWCLOUD,Open,Resolved,101
+JSWCLOUD,Awaiting Quality Review,In Progress,78
+JSWCLOUD,Quality Review,Awaiting Quality Review,39
+JSWCLOUD,Resolved,Open,31
+JSWCLOUD,Awaiting Quality Review,Resolved,20
+JSWCLOUD,In Progress,Resolved,17
+JSWCLOUD,Open,Closed,16
+JSWCLOUD,Awaiting Soak,Resolved,13
+JSWCLOUD,Quality Review,Awaiting Soak,12
+JSWCLOUD,Quality Review,Open,12
+JSWCLOUD,Awaiting Deployment,Awaiting Quality Review,11
+JSWCLOUD,Awaiting Development,In Progress,10
+JSWCLOUD,Open,Awaiting Development,9
+JSWCLOUD,In Progress,Quality Review,6
+JSWCLOUD,Resolved,Awaiting Deployment,5
+JSWCLOUD,Awaiting Deployment,Quality Review,4
+JSWCLOUD,Open,Design in Progress,3
+JSWCLOUD,Testing Notes,In Progress,2
+JSWCLOUD,Open,Testing Notes,2
+JSWCLOUD,Awaiting Development,Open,2
+JSWCLOUD,Design Backlog,Design in Progress,2
+JSWCLOUD,Design in Progress,Design Backlog,2
+JSWCLOUD,Done,Resolved,2
+JSWCLOUD,Awaiting Design Review,Awaiting Development,2
+JSWCLOUD,Open,Needs Verification,2
+JSWCLOUD,In Progress,Done,2
+JSWCLOUD,Design in Progress,Open,2
+JSWCLOUD,Resolved,Awaiting Soak,1
+JSWCLOUD,New,Open,1
+JSWCLOUD,Open,Open,1
+JSWCLOUD,In Progress,Awaiting Design Review,1
+JSWCLOUD,Needs Verification,Awaiting Development,1
+JSWCLOUD,Needs Verification,Open,1
+JSWCLOUD,Design Backlog,Open,1
+JSWCLOUD,Open,Gathering Interest,1
+JSWCLOUD,Design in Progress,Awaiting Design Review,1
+JSWCLOUD,Open,Design Backlog,1
+JSWCLOUD,Awaiting Soak,Open,1
+JSWSERVER,Resolved,Closed,1330
+JSWSERVER,In Progress,Awaiting Quality Review,1100
+JSWSERVER,Awaiting Quality Review,Quality Review,1068
+JSWSERVER,Open,In Progress,1034
+JSWSERVER,Quality Review,Awaiting Deployment,548
+JSWSERVER,Awaiting Deployment,Resolved,533
+JSWSERVER,Closed,Resolved,375
+JSWSERVER,Quality Review,Resolved,289
+JSWSERVER,Quality Review,In Progress,171
+JSWSERVER,In Progress,Open,154
+JSWSERVER,Open,Resolved,119
+JSWSERVER,Awaiting Quality Review,In Progress,77
+JSWSERVER,Resolved,Open,42
+JSWSERVER,Quality Review,Awaiting Quality Review,40
+JSWSERVER,Awaiting Soak,Resolved,29
+JSWSERVER,Quality Review,Awaiting Soak,27
+JSWSERVER,In Progress,Resolved,24
+JSWSERVER,In Progress,Quality Review,14
+JSWSERVER,Open,Awaiting Development,14
+JSWSERVER,Quality Review,Open,13
+JSWSERVER,Awaiting Development,In Progress,11
+JSWSERVER,Awaiting Deployment,Awaiting Quality Review,11
+JSWSERVER,Awaiting Deployment,Quality Review,6
+JSWSERVER,Awaiting Development,Open,6
+JSWSERVER,Awaiting Quality Review,Resolved,6
+JSWSERVER,Open,Closed,5
+JSWSERVER,Open,Design in Progress,3
+JSWSERVER,Resolved,Awaiting Deployment,3
+JSWSERVER,Design Backlog,Design in Progress,2
+JSWSERVER,Design in Progress,Design Backlog,2
+JSWSERVER,Awaiting Design Review,Awaiting Development,2
+JSWSERVER,Design in Progress,Open,2
+JSWSERVER,Resolved,Awaiting Soak,2
+JSWSERVER,Testing Notes,In Progress,2
+JSWSERVER,Open,Testing Notes,2
+JSWSERVER,Open,Needs Verification,2
+JSWSERVER,In Progress,Awaiting Development,1
+JSWSERVER,New,Open,1
+JSWSERVER,Open,Open,1
+JSWSERVER,In Progress,Awaiting Design Review,1
+JSWSERVER,Needs Verification,Awaiting Development,1
+JSWSERVER,Needs Verification,Open,1
+JSWSERVER,Verified,Resolved,1
+JSWSERVER,Open,Verified,1
+JSWSERVER,Design in Progress,Awaiting Design Review,1
+JSWSERVER,Open,Design Backlog,1
+JSWSERVER,Awaiting Soak,Open,1
+JSWSERVER,Open,Needs Triage,1
+JSWSERVER,Awaiting Development,Awaiting Soak,1
+JSWSERVER,Awaiting Soak,Soaking,1
+JSWSERVER,Soaking,Resolved,1
+JSWSERVER,Design Backlog,Open,1
+MDL,Waiting for peer review,Peer review in progress,2329
+MDL,Development in progress,Waiting for peer review,2000
+MDL,Peer review in progress,Development in progress,1816
+MDL,Waiting for integration review,Integration review in progress,1680
+MDL,Waiting for testing,Testing in progress,1612
+MDL,Open,Development in progress,1459
+MDL,Testing in progress,Tested,1381
+MDL,Integration review in progress,Waiting for testing,1364
+MDL,Tested,Closed,1329
+MDL,Waiting for integration review,Waiting for integration review,1083
+MDL,Development in progress,Waiting for integration review,796
+MDL,Open,Waiting for peer review,571
+MDL,Peer review in progress,Waiting for integration review,560
+MDL,Development in progress,Closed,557
+MDL,Reopened,Reopened,280
+MDL,Problem during testing,Waiting for testing,239
+MDL,Integration review in progress,Reopened,224
+MDL,Testing in progress,Problem during testing,222
+MDL,Waiting for peer review,Waiting for integration review,181
+MDL,Open,Closed,174
+MDL,Reopened,Waiting for integration review,173
+MDL,Waiting for peer review,Development in progress,140
+MDL,Waiting for integration review,Reopened,136
+MDL,Development in progress,Open,131
+MDL,Reopened,Development in progress,115
+MDL,Integration review in progress,Waiting for integration review,97
+MDL,Reopened,Waiting for peer review,88
+MDL,Tested,Problem during testing,51
+MDL,Reopened,Closed,44
+MDL,Closed,Reopened,44
+MDL,Development in progress,Peer review in progress,35
+MDL,Open,Open,35
+MDL,Open,Waiting for integration review,25
+MDL,Problem during testing,Reopened,24
+MDL,Open,Peer review in progress,19
+MDL,Waiting for integration review,Closed,16
+MDL,Integration review in progress,Integration review in progress,11
+MDL,Problem during testing,Integration review in progress,10
+MDL,Reopened,Peer review in progress,9
+MDL,Testing in progress,Waiting for testing,9
+MDL,Peer review in progress,Reopened,9
+MDL,Waiting for peer review,Open,8
+MDL,Peer review in progress,Open,6
+MDL,Development in progress,Development in progress,3
+MDL,In Progress,Open,3
+MDL,Waiting for peer review,Waiting for peer review,2
+MDL,Tested,Tested,2
+MDL,Peer review in progress,Peer review in progress,1
+MDL,Open,In Progress,1
+MDL,Waiting for testing,Waiting for testing,1
+MESOS,Accepted,In Progress,3048
+MESOS,In Progress,Reviewable,2497
+MESOS,Open,Accepted,2492
+MESOS,Reviewable,Resolved,2248
+MESOS,In Progress,Open,850
+MESOS,Open,Resolved,847
+MESOS,Resolved,Accepted,814
+MESOS,Open,In Progress,398
+MESOS,In Progress,Resolved,310
+MESOS,Reviewable,In Progress,294
+MESOS,Accepted,Resolved,176
+MESOS,In Progress,Accepted,74
+MESOS,Accepted,Reviewable,70
+MESOS,Closed,Open,35
+MESOS,Resolved,Reopened,26
+MESOS,Closed,Reopened,23
+MESOS,Resolved,Closed,21
+MESOS,Open,Closed,17
+MESOS,Reopened,Resolved,16
+MESOS,Reopened,In Progress,14
+MESOS,Accepted,Open,11
+MESOS,Reopened,Closed,11
+MESOS,Reopened,Open,8
+MESOS,In Progress,Closed,7
+MESOS,Accepted,Closed,2
+MULE,In Progress,Closed,1401
+MULE,Open,In Progress,1305
+MULE,TO DO,In Progress,1083
+MULE,Closed,Done,789
+MULE,In Progress,Resolved,784
+MULE,New,In Progress,431
+MULE,Open,Closed,413
+MULE,In Progress,Done,397
+MULE,Resolved,Closed,352
+MULE,TO DO,Closed,320
+MULE,Closed,Reopened,280
+MULE,TO DO,Open,270
+MULE,Reopened,Closed,237
+MULE,TO DO,New,203
+MULE,New,Done,148
+MULE,In Progress,TO DO,89
+MULE,In Progress,To Be Merged,88
+MULE,To Be Merged,Closed,88
+MULE,Pending 3rd-Party,TO DO,74
+MULE,TO DO,Pending 3rd-Party,73
+MULE,In Progress,Open,72
+MULE,Open,Pending 3rd-Party,67
+MULE,Pending 3rd-Party,Open,66
+MULE,Open,Resolved,65
+MULE,Reopened,In Progress,44
+MULE,In Progress,New,41
+MULE,Resolved,Done,32
+MULE,Open,New,21
+MULE,Accepted,In Progress,17
+MULE,Closed,Open,14
+MULE,In Progress,Code Review,14
+MULE,New,Accepted,13
+MULE,Open,Open,13
+MULE,Done,New,11
+MULE,Resolved,Open,11
+MULE,Resolved,Reopened,8
+MULE,Code Review,In Progress,7
+MULE,In Progress,Accepted,7
+MULE,New,Open,6
+MULE,Pending 3rd-Party,Closed,5
+MULE,Resolved,In Progress,5
+MULE,Reopened,Pending 3rd-Party,5
+MULE,Done,Closed,4
+MULE,Code Review,In Validation,4
+MULE,In Validation,Done,4
+MULE,Accepted,Resolved,4
+MULE,To Be Merged,Reopened,3
+MULE,Reopened,To Be Merged,3
+MULE,In Progress,In Progress,2
+MULE,In Backlog,In Progress,2
+MULE,Code Review,New,2
+MULE,Closed,Closed,2
+MULE,Open,Accepted,2
+MULE,Accepted,Closed,2
+MULE,Reopened,Open,2
+MULE,Resolved,New,1
+MULE,Code Review,Resolved,1
+MULE,Done,Accepted,1
+MULE,In Progress,In Validation,1
+MULE,In Validation,In Progress,1
+MULE,Open.,In Progress,1
+MULE,Open,Scoped,1
+MULE,Scoped,Open,1
+MULE,To Be Reviewed,Open,1
+MXNET,To Do,In Progress,288
+MXNET,In Progress,In Review,175
+MXNET,In Review,Done,159
+MXNET,To Do,Done,77
+MXNET,In Progress,Done,74
+MXNET,In Progress,To Do,33
+MXNET,Done,To Do,15
+MXNET,Done,In Progress,15
+NEXUS,New,Open,987
+NEXUS,To Be Tested,Testing In Progress,842
+NEXUS,Open,In Progress,832
+NEXUS,Testing In Progress,Closed,753
+NEXUS,Waiting for Review,To Be Tested,727
+NEXUS,In Progress,Waiting for Review,649
+NEXUS,Open,Waiting for Review,157
+NEXUS,In Progress,To Be Tested,139
+NEXUS,In Development,Waiting for Review,139
+NEXUS,To Be Tested,Closed,129
+NEXUS,Open,In Development,125
+NEXUS,Waiting for Review,Closed,109
+NEXUS,Open,To Be Tested,98
+NEXUS,In Progress,Closed,72
+NEXUS,Closed,Open,70
+NEXUS,Open,Closed,64
+NEXUS,Waiting for Review,In Progress,63
+NEXUS,Testing In Progress,Open,42
+NEXUS,Waiting for Response,Open,41
+NEXUS,Closed,Done,41
+NEXUS,In Progress,Open,36
+NEXUS,Testing In Progress,To Be Tested,24
+NEXUS,Waiting for Review,In Development,22
+NEXUS,Waiting for Review,Open,22
+NEXUS,Testing In Progress,Done,21
+NEXUS,New,Waiting for Response,19
+NEXUS,To Be Tested,Open,18
+NEXUS,Ready for Development,In Development,18
+NEXUS,New,Closed,17
+NEXUS,In Progress,Waiting for Response,16
+NEXUS,In Development,To Be Tested,12
+NEXUS,Raw,Ready for Development,12
+NEXUS,Open,Waiting for Response,12
+NEXUS,In Development,Closed,11
+NEXUS,Open,New,10
+NEXUS,Open,Defered,8
+NEXUS,Testing In Progress,In Progress,8
+NEXUS,In Development,Open,8
+NEXUS,Defered,Open,7
+NEXUS,To Be Tested,In Progress,7
+NEXUS,Open,Testing In Progress,7
+NEXUS,Ready to Groom,Ready for Development,6
+NEXUS,Waiting for Response,Inactive - Pending Closure,5
+NEXUS,Raw,Ready to Groom,5
+NEXUS,Refine,Ready for Development,5
+NEXUS,Testing In Progress,In Development,4
+NEXUS,Waiting for Response,Closed,4
+NEXUS,Ready for Development,In Progress,4
+NEXUS,Inactive - Pending Closure,Open,4
+NEXUS,In Development,Waiting for Response,3
+NEXUS,Raw,Refine,3
+NEXUS,In Development,In Development,3
+NEXUS,To Be Tested,In Development,3
+NEXUS,In Progress,Testing In Progress,3
+NEXUS,New,Raw,2
+NEXUS,Raw,Open,2
+NEXUS,Open,Raw,2
+NEXUS,Ready to Groom,Refine,2
+NEXUS,Ready for Development,Ready to Groom,2
+NEXUS,Raw,In Development,2
+NEXUS,Refine,Ready to Groom,2
+NEXUS,Done,Closed,2
+NEXUS,Ready for Development,Refine,2
+NEXUS,Open,Ready for Development,2
+NEXUS,In Development,Done,1
+NEXUS,Inactive - Pending Closure,Closed,1
+NEXUS,Open,Ready to Groom,1
+NEXUS,Testing In Progress,Raw,1
+NEXUS,Raw,Done,1
+NEXUS,Waiting for Review,Raw,1
+NEXUS,Waiting for Review,Done,1
+NEXUS,Ready to Groom,In Development,1
+NEXUS,In Development,Raw,1
+NEXUS,In Development,Ready for Development,1
+NEXUS,To Be Tested,Done,1
+NEXUS,Done,In Development,1
+NEXUS,Defered,Closed,1
+NEXUS,Ready to Groom,In Progress,1
+STL,To Do,In Progress,787
+STL,In Progress,Done,655
+STL,In Review,Done,155
+STL,In Progress,In Review,94
+STL,To Do,In Review,73
+STL,In Progress,To Do,39
+STL,To Do,Backlog,39
+STL,To Do,Done,28
+STL,In Progress,In Progress,21
+STL,Done,In Progress,8
+STL,In Review,In Progress,8
+STL,In Progress,Complete,8
+STL,Done,Done,7
+STL,In Review,In Review,6
+STL,In Review,To Do,4
+STL,In Progress,Backlog,3
+STL,In Review,Complete,2
+STL,Done,In Review,2
+STL,Done,To Do,1
+STL,Complete,Complete,1
+STL,Backlog,Planning,1
+STL,Planning,Backlog,1
+TIDOC,Resolved,Closed,790
+TIDOC,Open,In Progress,722
+TIDOC,In Progress,Resolved,459
+TIDOC,Open,Closed,237
+TIDOC,In Review,Resolved,230
+TIDOC,In Progress,In Review,225
+TIDOC,Open,Resolved,127
+TIDOC,Closed,Closed,42
+TIDOC,Reopened,Resolved,32
+TIDOC,Closed,Reopened,32
+TIDOC,In Progress,Open,30
+TIDOC,Resolved,Reopened,28
+TIDOC,In Progress,In  Review,17
+TIDOC,Reopened,In Progress,17
+TIDOC,In  Review,Resolved,16
+TIDOC,Reopened,In Review,7
+TIDOC,In Progress,Closed,5
+TIDOC,Reopened,Closed,3
+TIDOC,In Review,In Progress,3
+TIDOC,In QA Testing,Ready for Production,1
+TIDOC,In Review,In  Review,1
+TIDOC,Ready for Production,Resolved,1
+TIDOC,Open,To Do,1
+TIDOC,To Do,Open,1
+TIDOC,In Progress,Reviewed,1
+TIDOC,Reviewed,In QA Testing,1
+TIDOC,Reopened,In  Review,1
+TIMOB,Resolved,Closed,4347
+TIMOB,Open,In Progress,3426
+TIMOB,In Progress,In Review,1563
+TIMOB,In Progress,In  Review,1420
+TIMOB,In  Review,Resolved,1375
+TIMOB,In Review,Resolved,1143
+TIMOB,Open,Resolved,1044
+TIMOB,Closed,Reopened,582
+TIMOB,In Progress,Resolved,576
+TIMOB,Closed,Closed,564
+TIMOB,Reopened,Resolved,559
+TIMOB,Resolved,Reopened,551
+TIMOB,In Review,In QE Test,391
+TIMOB,In QE Test,Resolved,376
+TIMOB,In Progress,Open,361
+TIMOB,Reopened,In Progress,297
+TIMOB,Open,Closed,192
+TIMOB,Reopened,Closed,134
+TIMOB,In Review,In Progress,121
+TIMOB,In  Review,In Progress,87
+TIMOB,Reopened,In  Review,70
+TIMOB,Reopened,In Review,59
+TIMOB,In Review,In  Review,15
+TIMOB,In QE Test,In Review,12
+TIMOB,In Progress,Closed,3
+TIMOB,Resolved,In Progress,1
+TIMOB,Resolved,Resolved,1
+TISTUD,Resolved,Closed,1336
+TISTUD,Open,In Progress,1139
+TISTUD,In Progress,Resolved,723
+TISTUD,Closed,Closed,321
+TISTUD,In Progress,In Review,316
+TISTUD,In Review,Resolved,314
+TISTUD,Open,Resolved,263
+TISTUD,Resolved,Reopened,235
+TISTUD,Reopened,Resolved,184
+TISTUD,Closed,Reopened,177
+TISTUD,In  Review,Resolved,143
+TISTUD,In Progress,In  Review,140
+TISTUD,Reopened,In Progress,128
+TISTUD,In Progress,Open,94
+TISTUD,Reopened,Closed,82
+TISTUD,Open,Closed,54
+TISTUD,Reopened,In  Review,6
+TISTUD,In Review,In Progress,5
+TISTUD,Reopened,In Review,4
+TISTUD,In  Review,In Progress,2
+TISTUD,In Review,In  Review,1
+TISTUD,In Progress,Closed,1
+USERGRID,Resolved,Closed,438
+USERGRID,Open,In Progress,269
+USERGRID,In Progress,Resolved,228
+USERGRID,Open,Resolved,212
+USERGRID,In Progress,Open,48
+USERGRID,Resolved,Reopened,19
+USERGRID,Reopened,Resolved,12
+USERGRID,Reopened,In Progress,12
+USERGRID,Closed,Resolved,11
+USERGRID,Closed,Reopened,6
+USERGRID,Reopened,Reopened,2
+USERGRID,Open,Patch Available,1
+USERGRID,Patch Available,Resolved,1
+USERGRID,In Progress,Patch Available,1
+XD,To Do,In Progress,1946
+XD,In Progress,Done,1310
+XD,In Progress,In PR,637
+XD,In PR,Done,602
+XD,To Do,Done,352
+XD,In Progress,To Do,127
+XD,Done,In Progress,113
+XD,In PR,To Do,21
+XD,In PR,In Progress,14
+XD,Open,To Do,9
+XD,Open,In Progress,2

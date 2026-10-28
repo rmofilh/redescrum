@@ -1,0 +1,436 @@
+change_type,field,n
+DESCRIPTION,description,264504
+DESCRIPTION,summary,83599
+OTHER,Workflow,1796669
+OTHER,Fix Version,599621
+OTHER,labels,477891
+OTHER,Rank,455498
+OTHER,Link,448089
+OTHER,UIS,334435
+OTHER,Component,306011
+OTHER,RemoteIssueLink,263982
+OTHER,Sprint,174915
+OTHER,Support reference count,138388
+OTHER,Attachment,124664
+OTHER,Version,123816
+OTHER,priority,110537
+OTHER,issuetype,93487
+OTHER,Epic Link,92706
+OTHER,Epic Child,73054
+OTHER,Planned End,56370
+OTHER,ProjectImport,45519
+OTHER,Testing Instructions,42363
+OTHER,Currently in integration,41159
+OTHER,Pull Master Diff URL,36331
+OTHER,Planned Start,36184
+OTHER,timespent,35889
+OTHER,Symptom Severity,33795
+OTHER,project,32467
+OTHER,Key,32435
+OTHER,timeestimate,30794
+OTHER,WorklogId,29360
+OTHER,Pull Master Branch,24900
+OTHER,Tester,23431
+OTHER,Pull  from Repository,23353
+OTHER,Documentation Changes,23065
+OTHER,Comment,21508
+OTHER,Integrator,20870
+OTHER,Backwards Compatibility,20006
+OTHER,Minimum Version,19518
+OTHER,Peer reviewer,18381
+OTHER,Integration date,16892
+OTHER,timeoriginalestimate,16182
+OTHER,Driver Changes,15564
+OTHER,User Impact Score,13848
+OTHER,UIS - Server,13281
+OTHER,Reviewers,13226
+OTHER,Backlog Order (Obsolete),12823
+OTHER,Team,12715
+OTHER,Severity,11649
+OTHER,security,11014
+OTHER,QA Assignee,10634
+OTHER,Backport Requested,8382
+OTHER,Component watchers,7625
+OTHER,Rank (Obsolete),7535
+OTHER,JIRA Support Rank (Obsolete),6853
+OTHER,Parent,6724
+OTHER,Downstream Team Attention,6670
+OTHER,Reviewer,6373
+OTHER,environment,6299
+OTHER,Occurrence Factor,6257
+OTHER,ClosedOn,6163
+OTHER,Bugmaster Rank (Obsolete),6113
+OTHER,Studio Rank (Obsolete),6113
+OTHER,Support Rank (Obsolete),6113
+OTHER,Sprint candidate,5968
+OTHER,resolutiondate,5568
+OTHER,Triage,5552
+OTHER,UIS - Cloud,5075
+OTHER,Current Status,4704
+OTHER,Baseline End,4381
+OTHER,Baseline Start,4381
+OTHER,Backport,3945
+OTHER,Sub-Component,3783
+OTHER,Watchers,3726
+OTHER,User Summary,3709
+OTHER,Email,3689
+OTHER,Case,3635
+OTHER,Global Rank,3609
+OTHER,Kernel Team,3375
+OTHER,Integration priority,3340
+OTHER,Risk Score,3236
+OTHER,CAP Verification,3041
+OTHER,Dev Provided By,2963
+OTHER,Documentation Required,2801
+OTHER,Regular Expression,2677
+OTHER,Internal Complexity,2617
+OTHER,Internal Value,2604
+OTHER,End date,2533
+OTHER,Shepherd,2377
+OTHER,Target Version/s,2275
+OTHER,Epic Name,2260
+OTHER,Start date,2250
+OTHER,duedate,2190
+OTHER,SDK Impact,2054
+OTHER,Value,1976
+OTHER,Fixed in Build,1935
+OTHER,Tests Written,1881
+OTHER,Documentation Impact,1878
+OTHER,System Test Impact,1868
+OTHER,Pull 3.4 Diff URL,1854
+OTHER,Pull 3.3 Diff URL,1842
+OTHER,Complexity,1776
+OTHER,Difficulty,1768
+OTHER,Pull 3.5 Diff URL,1726
+OTHER,Pull 2.5 Diff URL,1715
+OTHER,Internal Priority,1699
+OTHER,Driver changes needed?,1653
+OTHER,Backport Completed,1627
+OTHER,Pull 2.7 Diff URL,1614
+OTHER,Introduced in Version,1604
+OTHER,Pull 2.3 Diff URL,1599
+OTHER,Pull 2.6 Diff URL,1554
+OTHER,Cycle,1548
+OTHER,Pull 2.8 Diff URL,1539
+OTHER,Customers,1529
+OTHER,Pull 2.3 Branch,1499
+OTHER,Pull 2.5 Branch,1461
+OTHER,Pull 2.4 Diff URL,1454
+OTHER,Workaround,1436
+OTHER,Pull 2.7 Branch,1418
+OTHER,Pull 2.2 Diff URL,1412
+OTHER,Pull 3.7 Diff URL,1409
+OTHER,Steps to Reproduce,1381
+OTHER,Server Team,1350
+OTHER,Pull 2.2 Branch,1348
+OTHER,Pull 3.3 Branch,1335
+OTHER,Pull 2.4 Branch,1334
+OTHER,Pull 2.6 Branch,1334
+OTHER,Pull 3.4 Branch,1323
+OTHER,Pull 3.6 Diff URL,1317
+OTHER,Priority for beta phase,1295
+OTHER,Pull 2.9 Diff URL,1292
+OTHER,Story Size,1289
+OTHER,Pull 3.1 Diff URL,1287
+OTHER,Pull 2.8 Branch,1285
+OTHER,Pull 3.5 Branch,1276
+OTHER,Support Rank,1251
+OTHER,Pull 3.2 Diff URL,1217
+OTHER,Pull 2.1 Diff URL,1210
+OTHER,Pull 3.0 Diff URL,1182
+OTHER,Pull 3.8 Diff URL,1182
+OTHER,Pull 2.1 Branch,1163
+OTHER,Epic Status,1148
+OTHER,Epic/Theme,1146
+OTHER,Pull 2.9 Branch,1046
+OTHER,Pull 3.1 Branch,1043
+OTHER,Pull 3.7 Branch,1025
+OTHER,Testing Notes,1020
+OTHER,Pull 3.6 Branch,992
+OTHER,Scrum Ranking (Obsolete),975
+OTHER,Backward Breaking,964
+OTHER,Actual End,959
+OTHER,Pull 3.0 Branch,951
+OTHER,Pull 3.2 Branch,942
+OTHER,Operating System,926
+OTHER,QA Kickoff Status,913
+OTHER,PM Reviewed,872
+OTHER,Pull 3.8 Branch,852
+OTHER,QA Demo Status,849
+OTHER,Customer Priority,833
+OTHER,Database,816
+OTHER,Documentation changes needed?,764
+OTHER,WBS,753
+OTHER,Dev Owner,716
+OTHER,Documentation Changes Summary,707
+OTHER,Actual Time,687
+OTHER,Pull 2.0 Diff URL,658
+OTHER,Pull Request URL,653
+OTHER,Defect Source,653
+OTHER,SteakHolder,648
+OTHER,Pull 2.0 Branch,641
+OTHER,Theme,602
+OTHER,Risk,600
+OTHER,Fixed in Enterprise Release/s,599
+OTHER,Issue Type,599
+OTHER,type,592
+OTHER,Parent Issue,591
+OTHER,Requires More Info,569
+OTHER,Severity Label,560
+OTHER,Notability,540
+OTHER,Teams Impacted,537
+OTHER,Downstream Changes Summary,519
+OTHER,Bug Type,491
+OTHER,Developed By,484
+OTHER,Business Value,477
+OTHER,Fix For,475
+OTHER,Estimate,472
+OTHER,Number of Developers,470
+OTHER,Pull 3.9 Diff URL,464
+OTHER,Flagged,455
+OTHER,Customer,443
+OTHER,Testing Performed,430
+OTHER,Backlog Order,426
+OTHER,Affects Docs,423
+OTHER,Internal Work Bucket,421
+OTHER,External issue ID,420
+OTHER,Testing Strategy,420
+OTHER,Code Review,404
+OTHER,Checked Code Coverage,400
+OTHER,Documentation link,375
+OTHER,Pull 3.9 Branch,375
+OTHER,Development Effort,372
+OTHER,Browser,351
+OTHER,Partner backlog,348
+OTHER,Effort points,338
+OTHER,Pull 3.10 Diff URL,337
+OTHER,QA Owner,331
+OTHER,URL,321
+OTHER,Urgent?,314
+OTHER,Test Result,312
+OTHER,Affects,308
+OTHER,Is,277
+OTHER,Pull 3.10 Branch,268
+OTHER,User impact,267
+OTHER,Epic Colour,266
+OTHER,Time Spent,263
+OTHER,CVSS Score,255
+OTHER,Tested By,235
+OTHER,Release Note,224
+OTHER,Code Review Owner,223
+OTHER,Task Type,221
+OTHER,Issue size,215
+OTHER,Themes,212
+OTHER,Data Collection,212
+OTHER,Epic Color,207
+OTHER,WorklogTimeSpent,206
+OTHER,Test Type,204
+OTHER,Does this issue require documentation?,196
+OTHER,Design Status,192
+OTHER,Function Test Status,192
+OTHER,Documentation Status,188
+OTHER,Sample/Tutorial,185
+OTHER,Backport Approved,177
+OTHER,Executed,174
+OTHER,QA Needed,161
+OTHER,Customer Value Points,155
+OTHER,Confidence Level,153
+OTHER,Buildvariants,148
+OTHER,To be done by,146
+OTHER,Includes Code Fix,145
+OTHER,Acceptance Criteria,141
+OTHER,Detailed Project Statuses,136
+OTHER,Pull 1.9 Branch,132
+OTHER,Epic SP Progress,132
+OTHER,Epic Story  Progress,132
+OTHER,Pull 1.9 Diff URL,131
+OTHER,Failing Test Suite,130
+OTHER,Automation Required,122
+OTHER,Trouble Ticket,121
+OTHER,Configuration,121
+OTHER,Work Type,120
+OTHER,Test Link(s),110
+OTHER,Pre-priority,102
+OTHER,Test Result Details,101
+OTHER,Injected,100
+OTHER,Migration Impact,100
+OTHER,LH version,98
+OTHER,CC,91
+OTHER,PM Value,91
+OTHER,Streams,91
+OTHER,Release version,88
+OTHER,Test Status,87
+OTHER,Epic,86
+OTHER,QA Test Plan,81
+OTHER,Log Output,78
+OTHER,Work Effort (0-10),78
+OTHER,Reported in Build #,74
+OTHER,Aha! Reference,70
+OTHER,Aha! Rank,68
+OTHER,Product Rank,68
+OTHER,Verification,67
+OTHER,Launch Plan,62
+OTHER,Splunk query to find customers impacted by this bug,55
+OTHER,Test Plan,55
+OTHER,Fixed in Long Term Support Release/s,54
+OTHER,Test Case Automated,50
+OTHER,Metric Value,50
+OTHER,% Users Impacted,47
+OTHER,Ordinal Priority,47
+OTHER,Points,43
+OTHER,UserVoice Links,42
+OTHER,QA brought to you by,41
+OTHER,company,39
+OTHER,Effort,38
+OTHER,Owner,36
+OTHER,Release Note Required,35
+OTHER,Metric Unit,35
+OTHER,Includes test case?,33
+OTHER,Release Version History,33
+OTHER,Design,32
+OTHER,JIRA Support Rank,30
+OTHER,Unique Views,29
+OTHER,OS and Version,29
+OTHER,Milestone Level,29
+OTHER,Plugin Version,29
+OTHER,Risk Assessment,27
+OTHER,Swan Flag,25
+OTHER,Studio Rank,25
+OTHER,Bugmaster Rank,24
+OTHER,Random text,24
+OTHER,Vendor,24
+OTHER,Animal,23
+OTHER,Demo,21
+OTHER,Review Link,21
+OTHER,External issue URL,19
+OTHER,Support Hot Issues Workaround,19
+OTHER,Found in Commit,19
+OTHER,Failing Buildvariants,19
+OTHER,CLA,19
+OTHER,Site,18
+OTHER,SFDC Case URL,17
+OTHER,SFDC Customer Impact,17
+OTHER,Docs Text,16
+OTHER,Splunk query to find customers impacted by this incident,16
+OTHER,SFDC Case Severity,16
+OTHER,Evergreen Project,15
+OTHER,Roadmap,14
+OTHER,Sub Theme,14
+OTHER,Reference URL,12
+OTHER,Customer Labels,12
+OTHER,JIRA Version,11
+OTHER,Product-Component,11
+OTHER,Add-on Type,10
+OTHER,Out of Scope,10
+OTHER,Count of Linked Failures,10
+OTHER,Failing Tasks,10
+OTHER,User Agent,9
+OTHER,Old_Backport,9
+OTHER,uuid,9
+OTHER,Product,9
+OTHER,PercentDone,9
+OTHER,First Failing Revision (git hash),9
+OTHER,SERVER fixVersion,9
+OTHER,Topology,8
+OTHER,Scope,8
+OTHER,Assigned Teams,8
+OTHER,Whiteboard,8
+OTHER,Task Points,8
+OTHER,Backlog priority,7
+OTHER,Has Been Automated,7
+OTHER,Flags,7
+OTHER,Customer name,7
+OTHER,Bamboo Ranking,7
+OTHER,Platform,7
+OTHER,Baseline end date,7
+OTHER,Bamboo Stream,7
+OTHER,Baseline start date,7
+OTHER,Language,7
+OTHER,MongoDB Version,6
+OTHER,Value/Effort,6
+OTHER,Feature,6
+OTHER,R,6
+OTHER,E-mail,6
+OTHER,Usage,6
+OTHER,Ranking,6
+OTHER,Full Name,6
+OTHER,Epic Label,6
+OTHER,Original Estimate,6
+OTHER,Alignment,6
+OTHER,Units,6
+OTHER,Target Release,5
+OTHER,Other viewers,5
+OTHER,Points (historical dont use),5
+OTHER,Support Request Message (IssueType:Bug),4
+OTHER,DriverOrigin,4
+OTHER,Scheduling,4
+OTHER,Affects Clover-for-Eclipse,4
+OTHER,Driver Version,4
+OTHER,Driver Validation,4
+OTHER,Authorized Watchers,4
+OTHER,Support Priority,4
+OTHER,Zendesk ticket Reference,4
+OTHER,Spec Link,4
+OTHER,Support Points,4
+OTHER,Regular Expression - old,4
+OTHER,QA Lead Assigned,4
+OTHER,Alcohol consumed prior to contributing to this issue,4
+OTHER,Defect Type,4
+OTHER,Release Notes,3
+OTHER,Connector category,3
+OTHER,Actual Start,3
+OTHER,Plugin Info,3
+OTHER,Bug Symptoms,3
+OTHER,Failure Type,3
+OTHER,Admin-Comment-Bulk Update Author,3
+OTHER,Responsible Organization,2
+OTHER,Name,2
+OTHER,Rationale,2
+OTHER,Journal URL,2
+OTHER,Customer Request Type,2
+OTHER,Project Planning,2
+OTHER,Alert SARA,2
+OTHER,Tags,2
+OTHER,Backportable,2
+OTHER,Request participants,2
+OTHER,Repro Case,2
+OTHER,Failing Tests,2
+OTHER,JAC issue link,2
+OTHER,Boost Version,2
+OTHER,Reviewer comments,2
+OTHER,Ecosystem Products,1
+OTHER,Organizations,1
+OTHER,Ecosystem Frameworks,1
+OTHER,Flag,1
+OTHER,components,1
+OTHER,Risk factor,1
+OTHER,Rating,1
+OTHER,Security Review Done,1
+OTHER,Atlassian Product,1
+OTHER,Revision Order Number,1
+OTHER,INFRA-Members,1
+OTHER,First Failing Revision,1
+OTHER,Documentation Completed,1
+OTHER,Performance Done,1
+OTHER,EIS,1
+OTHER,Art points,1
+OTHER,Compiler and Version,1
+OTHER,ROM,1
+OTHER,Color of label tdl-priority of field Tags,1
+OTHER,Burger options,1
+OTHER,Checklist,1
+OTHER,Ranked Priority,1
+OTHER,Urgent,1
+OTHER,Arch,1
+OTHER,Vendor Delivery Date,1
+OTHER,Virtual Machine,1
+OTHER,Demo Completed,1
+OTHER,Automation Done,1
+PEOPLE,assignee,342509
+PEOPLE,reporter,7042
+STATUS,status,1363475
+STATUS,resolution,416202
+STORY_POINT,Story Points,48225
+STORY_POINT,Actual Story Points,541
+STORY_POINT,QA Story Points,283
+STORY_POINT,Story Points (Obsolete),146
