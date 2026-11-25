@@ -1,0 +1,61 @@
+cenario,divisao,dobra,modelo,n_treino_sprints,n_teste_sprints,positivos_teste,parametros
+principal,equipe_nova,0,burndown_ideal,1102,57,11,
+principal,equipe_nova,0,burndown_calibrado,1102,57,11,w=6.711; b=-0.842
+principal,equipe_nova,0,reg_logistica,1102,57,11,{'m__C': 0.1}
+principal,equipe_nova,0,mlp,1102,57,11,"{'m__alpha': 1.0, 'm__hidden_layer_sizes': (5,)}"
+principal,equipe_nova,0,gradient_boosting,1102,57,11,"{'m__l2_regularization': 0.0, 'm__learning_rate': 0.05, 'm__max_depth': 1, 'm__max_iter': 100}"
+principal,equipe_nova,0,mlp_curva,1102,57,11,"{'m__alpha': 1.0, 'm__hidden_layer_sizes': (5,)}"
+principal,equipe_nova,1,burndown_ideal,1030,129,9,
+principal,equipe_nova,1,burndown_calibrado,1030,129,9,w=6.539; b=-0.792
+principal,equipe_nova,1,reg_logistica,1030,129,9,{'m__C': 0.1}
+principal,equipe_nova,1,mlp,1030,129,9,"{'m__alpha': 1.0, 'm__hidden_layer_sizes': (10,)}"
+principal,equipe_nova,1,gradient_boosting,1030,129,9,"{'m__l2_regularization': 0.0, 'm__learning_rate': 0.05, 'm__max_depth': 1, 'm__max_iter': 100}"
+principal,equipe_nova,1,mlp_curva,1030,129,9,"{'m__alpha': 1.0, 'm__hidden_layer_sizes': (5,)}"
+principal,equipe_nova,2,burndown_ideal,1068,91,15,
+principal,equipe_nova,2,burndown_calibrado,1068,91,15,w=6.348; b=-0.898
+principal,equipe_nova,2,reg_logistica,1068,91,15,{'m__C': 0.1}
+principal,equipe_nova,2,mlp,1068,91,15,"{'m__alpha': 1.0, 'm__hidden_layer_sizes': (5,)}"
+principal,equipe_nova,2,gradient_boosting,1068,91,15,"{'m__l2_regularization': 0.0, 'm__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 100}"
+principal,equipe_nova,2,mlp_curva,1068,91,15,"{'m__alpha': 1.0, 'm__hidden_layer_sizes': (2,)}"
+principal,equipe_nova,3,burndown_ideal,778,381,28,
+principal,equipe_nova,3,burndown_calibrado,778,381,28,w=6.628; b=-0.573
+principal,equipe_nova,3,reg_logistica,778,381,28,{'m__C': 1.0}
+principal,equipe_nova,3,mlp,778,381,28,"{'m__alpha': 1.0, 'm__hidden_layer_sizes': (10,)}"
+principal,equipe_nova,3,gradient_boosting,778,381,28,"{'m__l2_regularization': 1.0, 'm__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 50}"
+principal,equipe_nova,3,mlp_curva,778,381,28,"{'m__alpha': 1.0, 'm__hidden_layer_sizes': (10,)}"
+principal,equipe_nova,4,burndown_ideal,658,501,62,
+principal,equipe_nova,4,burndown_calibrado,658,501,62,w=5.871; b=-1.067
+principal,equipe_nova,4,reg_logistica,658,501,62,{'m__C': 0.1}
+principal,equipe_nova,4,mlp,658,501,62,"{'m__alpha': 1.0, 'm__hidden_layer_sizes': (10,)}"
+principal,equipe_nova,4,gradient_boosting,658,501,62,"{'m__l2_regularization': 0.0, 'm__learning_rate': 0.05, 'm__max_depth': 1, 'm__max_iter': 100}"
+principal,equipe_nova,4,mlp_curva,658,501,62,"{'m__alpha': 1.0, 'm__hidden_layer_sizes': (5,)}"
+principal,equipe_com_historico,0,burndown_ideal,571,116,11,
+principal,equipe_com_historico,0,burndown_calibrado,571,116,11,w=6.215; b=-0.619
+principal,equipe_com_historico,0,reg_logistica,571,116,11,{'m__C': 0.1}
+principal,equipe_com_historico,0,mlp,571,116,11,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (2,)}"
+principal,equipe_com_historico,0,gradient_boosting,571,116,11,"{'m__l2_regularization': 1.0, 'm__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 100}"
+principal,equipe_com_historico,0,mlp_curva,571,116,11,"{'m__alpha': 1.0, 'm__hidden_layer_sizes': (5,)}"
+principal,equipe_com_historico,1,burndown_ideal,685,116,9,
+principal,equipe_com_historico,1,burndown_calibrado,685,116,9,w=6.445; b=-0.652
+principal,equipe_com_historico,1,reg_logistica,685,116,9,{'m__C': 0.01}
+principal,equipe_com_historico,1,mlp,685,116,9,"{'m__alpha': 10.0, 'm__hidden_layer_sizes': (10,)}"
+principal,equipe_com_historico,1,gradient_boosting,685,116,9,"{'m__l2_regularization': 0.0, 'm__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 50}"
+principal,equipe_com_historico,1,mlp_curva,685,116,9,"{'m__alpha': 10.0, 'm__hidden_layer_sizes': (5,)}"
+principal,equipe_com_historico,2,burndown_ideal,799,116,3,
+principal,equipe_com_historico,2,burndown_calibrado,799,116,3,w=6.457; b=-0.676
+principal,equipe_com_historico,2,reg_logistica,799,116,3,{'m__C': 0.1}
+principal,equipe_com_historico,2,mlp,799,116,3,"{'m__alpha': 1.0, 'm__hidden_layer_sizes': (10,)}"
+principal,equipe_com_historico,2,gradient_boosting,799,116,3,"{'m__l2_regularization': 1.0, 'm__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 100}"
+principal,equipe_com_historico,2,mlp_curva,799,116,3,"{'m__alpha': 1.0, 'm__hidden_layer_sizes': (5,)}"
+principal,equipe_com_historico,3,burndown_ideal,918,116,10,
+principal,equipe_com_historico,3,burndown_calibrado,918,116,10,w=6.661; b=-0.734
+principal,equipe_com_historico,3,reg_logistica,918,116,10,{'m__C': 0.1}
+principal,equipe_com_historico,3,mlp,918,116,10,"{'m__alpha': 1.0, 'm__hidden_layer_sizes': (5,)}"
+principal,equipe_com_historico,3,gradient_boosting,918,116,10,"{'m__l2_regularization': 1.0, 'm__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 100}"
+principal,equipe_com_historico,3,mlp_curva,918,116,10,"{'m__alpha': 10.0, 'm__hidden_layer_sizes': (10,)}"
+principal,equipe_com_historico,4,burndown_ideal,1040,116,1,
+principal,equipe_com_historico,4,burndown_calibrado,1040,116,1,w=6.348; b=-0.761
+principal,equipe_com_historico,4,reg_logistica,1040,116,1,{'m__C': 0.1}
+principal,equipe_com_historico,4,mlp,1040,116,1,"{'m__alpha': 1.0, 'm__hidden_layer_sizes': (5,)}"
+principal,equipe_com_historico,4,gradient_boosting,1040,116,1,"{'m__l2_regularization': 0.0, 'm__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 100}"
+principal,equipe_com_historico,4,mlp_curva,1040,116,1,"{'m__alpha': 1.0, 'm__hidden_layer_sizes': (5,)}"

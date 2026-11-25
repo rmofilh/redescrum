@@ -1,8 +1,6 @@
-pandas
-numpy
-matplotlib
-scikit-learn
-sqlalchemy
-pymysql
-cryptography
-python-pptx
+pandas==2.3.3
+numpy==2.2.6
+scipy==1.15.3
+scikit-learn==1.7.2
+matplotlib==3.10.9
+statsmodels==0.15.0

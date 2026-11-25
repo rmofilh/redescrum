@@ -36,7 +36,10 @@ if __name__ == "__main__":
     import sys
 
     eng = engine()
-    names = sys.argv[1:] or sorted(p.stem for p in SQL_DIR.glob("[1-9]*.sql"))
+    # padrão: consultas 01–11 (viabilidade). As 12+ (pergunta 3 do artigo) dependem da tabela
+    # auxiliar q3_issues e são rodadas por src/artigo/extrair_q3.py.
+    names = sys.argv[1:] or sorted(p.stem for p in SQL_DIR.glob("[0-9][0-9]_*.sql")
+                                   if 1 <= int(p.stem[:2]) <= 11)
     for n in names:
         df = export(n, eng)
         print(f"{n}: {len(df)} linhas")

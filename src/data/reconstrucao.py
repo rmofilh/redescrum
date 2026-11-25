@@ -112,6 +112,8 @@ class LinhaDoTempo:
         self.final_status = issues.set_index("issue_id").status.map(normalizar_status).to_dict()
         self.final_sp = issues.set_index("issue_id").story_point.to_dict()
         self.resolucao = issues.set_index("issue_id").resolution_date.to_dict()
+        # data da estimativa: usada quando não há histórico de story points (ver sp_em)
+        self.estimativa = issues.set_index("issue_id").estimation_date.to_dict()
 
         st = cl_status[cl_status.field == "status"].sort_values(["issue_id", "data"])
         st = st.assign(de=st.de.map(normalizar_status), para=st.para.map(normalizar_status))
@@ -160,6 +162,11 @@ class LinhaDoTempo:
     def sp_em(self, iid, t):
         h = self.sp.get(iid)
         if h is None:
+            # sem histórico: o valor final só vale em t se a estimativa já existia em t
+            # (evita usar story points preenchidos depois do início da Sprint)
+            est = self.estimativa.get(iid)
+            if pd.notna(est) and pd.Timestamp(est) > pd.Timestamp(t):
+                return np.nan
             v = self.final_sp.get(iid, np.nan)
         else:
             v = self._valor_em(h, t)

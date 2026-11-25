@@ -1,0 +1,4 @@
+# Only needed to regenerate data/raw/csv/ from the TAWOS dump (src/data/db.py).
+sqlalchemy
+pymysql
+cryptography

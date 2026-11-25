@@ -1,0 +1,211 @@
+cenario,divisao,dobra,modelo,n_treino_sprints,n_teste_sprints,positivos_teste,parametros
+principal,equipe_nova,0,burndown_ideal,1102,57,11,
+principal,equipe_nova,0,burndown_calibrado,1102,57,11,w=6.711; b=-0.842
+principal,equipe_nova,0,monte_carlo,1102,57,11,
+principal,equipe_nova,0,reg_logistica,1102,57,11,{'m__C': 0.1}
+principal,equipe_nova,0,mlp,1102,57,11,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (15,)}"
+principal,equipe_nova,0,gradient_boosting,1102,57,11,"{'m__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 100}"
+principal,equipe_nova,0,mlp_curva,1102,57,11,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+principal,equipe_nova,1,burndown_ideal,1030,129,9,
+principal,equipe_nova,1,burndown_calibrado,1030,129,9,w=6.539; b=-0.792
+principal,equipe_nova,1,monte_carlo,1030,129,9,
+principal,equipe_nova,1,reg_logistica,1030,129,9,{'m__C': 0.1}
+principal,equipe_nova,1,mlp,1030,129,9,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (10,)}"
+principal,equipe_nova,1,gradient_boosting,1030,129,9,"{'m__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 100}"
+principal,equipe_nova,1,mlp_curva,1030,129,9,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+principal,equipe_nova,2,burndown_ideal,1068,91,15,
+principal,equipe_nova,2,burndown_calibrado,1068,91,15,w=6.348; b=-0.898
+principal,equipe_nova,2,monte_carlo,1068,91,15,
+principal,equipe_nova,2,reg_logistica,1068,91,15,{'m__C': 0.1}
+principal,equipe_nova,2,mlp,1068,91,15,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+principal,equipe_nova,2,gradient_boosting,1068,91,15,"{'m__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 100}"
+principal,equipe_nova,2,mlp_curva,1068,91,15,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+principal,equipe_nova,3,burndown_ideal,778,381,28,
+principal,equipe_nova,3,burndown_calibrado,778,381,28,w=6.628; b=-0.573
+principal,equipe_nova,3,monte_carlo,778,381,28,
+principal,equipe_nova,3,reg_logistica,778,381,28,{'m__C': 1.0}
+principal,equipe_nova,3,mlp,778,381,28,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (15,)}"
+principal,equipe_nova,3,gradient_boosting,778,381,28,"{'m__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 100}"
+principal,equipe_nova,3,mlp_curva,778,381,28,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (10,)}"
+principal,equipe_nova,4,burndown_ideal,658,501,62,
+principal,equipe_nova,4,burndown_calibrado,658,501,62,w=5.871; b=-1.067
+principal,equipe_nova,4,monte_carlo,658,501,62,
+principal,equipe_nova,4,reg_logistica,658,501,62,{'m__C': 0.1}
+principal,equipe_nova,4,mlp,658,501,62,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (10,)}"
+principal,equipe_nova,4,gradient_boosting,658,501,62,"{'m__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 100}"
+principal,equipe_nova,4,mlp_curva,658,501,62,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+principal,equipe_com_historico,0,burndown_ideal,571,116,11,
+principal,equipe_com_historico,0,burndown_calibrado,571,116,11,w=6.215; b=-0.619
+principal,equipe_com_historico,0,monte_carlo,571,116,11,
+principal,equipe_com_historico,0,reg_logistica,571,116,11,{'m__C': 0.1}
+principal,equipe_com_historico,0,mlp,571,116,11,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+principal,equipe_com_historico,0,gradient_boosting,571,116,11,"{'m__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 100}"
+principal,equipe_com_historico,0,mlp_curva,571,116,11,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+principal,equipe_com_historico,1,burndown_ideal,685,116,9,
+principal,equipe_com_historico,1,burndown_calibrado,685,116,9,w=6.445; b=-0.652
+principal,equipe_com_historico,1,monte_carlo,685,116,9,
+principal,equipe_com_historico,1,reg_logistica,685,116,9,{'m__C': 0.01}
+principal,equipe_com_historico,1,mlp,685,116,9,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (15,)}"
+principal,equipe_com_historico,1,gradient_boosting,685,116,9,"{'m__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 100}"
+principal,equipe_com_historico,1,mlp_curva,685,116,9,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+principal,equipe_com_historico,2,burndown_ideal,799,116,3,
+principal,equipe_com_historico,2,burndown_calibrado,799,116,3,w=6.457; b=-0.676
+principal,equipe_com_historico,2,monte_carlo,799,116,3,
+principal,equipe_com_historico,2,reg_logistica,799,116,3,{'m__C': 0.1}
+principal,equipe_com_historico,2,mlp,799,116,3,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (10,)}"
+principal,equipe_com_historico,2,gradient_boosting,799,116,3,"{'m__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 100}"
+principal,equipe_com_historico,2,mlp_curva,799,116,3,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+principal,equipe_com_historico,3,burndown_ideal,918,116,10,
+principal,equipe_com_historico,3,burndown_calibrado,918,116,10,w=6.661; b=-0.734
+principal,equipe_com_historico,3,monte_carlo,918,116,10,
+principal,equipe_com_historico,3,reg_logistica,918,116,10,{'m__C': 0.1}
+principal,equipe_com_historico,3,mlp,918,116,10,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+principal,equipe_com_historico,3,gradient_boosting,918,116,10,"{'m__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 100}"
+principal,equipe_com_historico,3,mlp_curva,918,116,10,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+principal,equipe_com_historico,4,burndown_ideal,1040,116,1,
+principal,equipe_com_historico,4,burndown_calibrado,1040,116,1,w=6.348; b=-0.761
+principal,equipe_com_historico,4,monte_carlo,1040,116,1,
+principal,equipe_com_historico,4,reg_logistica,1040,116,1,{'m__C': 0.1}
+principal,equipe_com_historico,4,mlp,1040,116,1,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (15,)}"
+principal,equipe_com_historico,4,gradient_boosting,1040,116,1,"{'m__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 100}"
+principal,equipe_com_historico,4,mlp_curva,1040,116,1,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+L70,equipe_nova,0,burndown_ideal,701,458,79,
+L70,equipe_nova,0,burndown_calibrado,701,458,79,w=6.034; b=-0.455
+L70,equipe_nova,0,monte_carlo,701,458,79,
+L70,equipe_nova,0,reg_logistica,701,458,79,{'m__C': 0.1}
+L70,equipe_nova,0,mlp,701,458,79,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (15,)}"
+L70,equipe_nova,0,gradient_boosting,701,458,79,"{'m__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 100}"
+L70,equipe_nova,0,mlp_curva,701,458,79,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+L70,equipe_nova,1,burndown_ideal,980,179,27,
+L70,equipe_nova,1,burndown_calibrado,980,179,27,w=6.739; b=-0.147
+L70,equipe_nova,1,monte_carlo,980,179,27,
+L70,equipe_nova,1,reg_logistica,980,179,27,{'m__C': 0.1}
+L70,equipe_nova,1,mlp,980,179,27,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (15,)}"
+L70,equipe_nova,1,gradient_boosting,980,179,27,"{'m__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 100}"
+L70,equipe_nova,1,mlp_curva,980,179,27,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+L70,equipe_nova,2,burndown_ideal,994,165,36,
+L70,equipe_nova,2,burndown_calibrado,994,165,36,w=6.167; b=-0.326
+L70,equipe_nova,2,monte_carlo,994,165,36,
+L70,equipe_nova,2,reg_logistica,994,165,36,{'m__C': 0.1}
+L70,equipe_nova,2,mlp,994,165,36,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+L70,equipe_nova,2,gradient_boosting,994,165,36,"{'m__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 100}"
+L70,equipe_nova,2,mlp_curva,994,165,36,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+L70,equipe_nova,3,burndown_ideal,875,284,26,
+L70,equipe_nova,3,burndown_calibrado,875,284,26,w=6.745; b=-0.021
+L70,equipe_nova,3,monte_carlo,875,284,26,
+L70,equipe_nova,3,reg_logistica,875,284,26,{'m__C': 10.0}
+L70,equipe_nova,3,mlp,875,284,26,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (15,)}"
+L70,equipe_nova,3,gradient_boosting,875,284,26,"{'m__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 100}"
+L70,equipe_nova,3,mlp_curva,875,284,26,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+L70,equipe_nova,4,burndown_ideal,1086,73,16,
+L70,equipe_nova,4,burndown_calibrado,1086,73,16,w=6.603; b=-0.244
+L70,equipe_nova,4,monte_carlo,1086,73,16,
+L70,equipe_nova,4,reg_logistica,1086,73,16,{'m__C': 10.0}
+L70,equipe_nova,4,mlp,1086,73,16,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+L70,equipe_nova,4,gradient_boosting,1086,73,16,"{'m__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 100}"
+L70,equipe_nova,4,mlp_curva,1086,73,16,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+L60,equipe_nova,0,burndown_ideal,1091,68,26,
+L60,equipe_nova,0,burndown_calibrado,1091,68,26,w=6.122; b=0.431
+L60,equipe_nova,0,monte_carlo,1091,68,26,
+L60,equipe_nova,0,reg_logistica,1091,68,26,{'m__C': 10.0}
+L60,equipe_nova,0,mlp,1091,68,26,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (10,)}"
+L60,equipe_nova,0,gradient_boosting,1091,68,26,"{'m__learning_rate': 0.1, 'm__max_depth': 2, 'm__max_iter': 100}"
+L60,equipe_nova,0,mlp_curva,1091,68,26,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+L60,equipe_nova,1,burndown_ideal,715,444,119,
+L60,equipe_nova,1,burndown_calibrado,715,444,119,w=5.880; b=0.386
+L60,equipe_nova,1,monte_carlo,715,444,119,
+L60,equipe_nova,1,reg_logistica,715,444,119,{'m__C': 0.1}
+L60,equipe_nova,1,mlp,715,444,119,"{'m__alpha': 0.01, 'm__hidden_layer_sizes': (10,)}"
+L60,equipe_nova,1,gradient_boosting,715,444,119,"{'m__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 100}"
+L60,equipe_nova,1,mlp_curva,715,444,119,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+L60,equipe_nova,2,burndown_ideal,1023,136,40,
+L60,equipe_nova,2,burndown_calibrado,1023,136,40,w=6.572; b=0.557
+L60,equipe_nova,2,monte_carlo,1023,136,40,
+L60,equipe_nova,2,reg_logistica,1023,136,40,{'m__C': 10.0}
+L60,equipe_nova,2,mlp,1023,136,40,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (15,)}"
+L60,equipe_nova,2,gradient_boosting,1023,136,40,"{'m__learning_rate': 0.1, 'm__max_depth': 2, 'm__max_iter': 100}"
+L60,equipe_nova,2,mlp_curva,1023,136,40,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (10,)}"
+L60,equipe_nova,3,burndown_ideal,1032,127,29,
+L60,equipe_nova,3,burndown_calibrado,1032,127,29,w=6.362; b=0.528
+L60,equipe_nova,3,monte_carlo,1032,127,29,
+L60,equipe_nova,3,reg_logistica,1032,127,29,{'m__C': 1.0}
+L60,equipe_nova,3,mlp,1032,127,29,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (10,)}"
+L60,equipe_nova,3,gradient_boosting,1032,127,29,"{'m__learning_rate': 0.1, 'm__max_depth': 2, 'm__max_iter': 100}"
+L60,equipe_nova,3,mlp_curva,1032,127,29,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+L60,equipe_nova,4,burndown_ideal,775,384,78,
+L60,equipe_nova,4,burndown_calibrado,775,384,78,w=6.283; b=0.604
+L60,equipe_nova,4,monte_carlo,775,384,78,
+L60,equipe_nova,4,reg_logistica,775,384,78,{'m__C': 1.0}
+L60,equipe_nova,4,mlp,775,384,78,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (15,)}"
+L60,equipe_nova,4,gradient_boosting,775,384,78,"{'m__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 100}"
+L60,equipe_nova,4,mlp_curva,775,384,78,"{'m__alpha': 0.01, 'm__hidden_layer_sizes': (5,)}"
+itens,equipe_nova,0,burndown_ideal,1553,474,73,
+itens,equipe_nova,0,burndown_calibrado,1553,474,73,w=7.546; b=-0.868
+itens,equipe_nova,0,monte_carlo,1553,474,73,
+itens,equipe_nova,0,reg_logistica,1553,474,73,{'m__C': 1.0}
+itens,equipe_nova,0,mlp,1553,474,73,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (10,)}"
+itens,equipe_nova,0,gradient_boosting,1553,474,73,"{'m__learning_rate': 0.1, 'm__max_depth': 2, 'm__max_iter': 100}"
+itens,equipe_nova,0,mlp_curva,1553,474,73,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (15,)}"
+itens,equipe_nova,1,burndown_ideal,1457,570,36,
+itens,equipe_nova,1,burndown_calibrado,1457,570,36,w=6.978; b=-0.726
+itens,equipe_nova,1,monte_carlo,1457,570,36,
+itens,equipe_nova,1,reg_logistica,1457,570,36,{'m__C': 1.0}
+itens,equipe_nova,1,mlp,1457,570,36,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (15,)}"
+itens,equipe_nova,1,gradient_boosting,1457,570,36,"{'m__learning_rate': 0.05, 'm__max_depth': 3, 'm__max_iter': 100}"
+itens,equipe_nova,1,mlp_curva,1457,570,36,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+itens,equipe_nova,2,burndown_ideal,1784,243,70,
+itens,equipe_nova,2,burndown_calibrado,1784,243,70,w=6.801; b=-0.897
+itens,equipe_nova,2,monte_carlo,1784,243,70,
+itens,equipe_nova,2,reg_logistica,1784,243,70,{'m__C': 10.0}
+itens,equipe_nova,2,mlp,1784,243,70,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (15,)}"
+itens,equipe_nova,2,gradient_boosting,1784,243,70,"{'m__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 100}"
+itens,equipe_nova,2,mlp_curva,1784,243,70,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+itens,equipe_nova,3,burndown_ideal,1625,402,41,
+itens,equipe_nova,3,burndown_calibrado,1625,402,41,w=7.670; b=-0.714
+itens,equipe_nova,3,monte_carlo,1625,402,41,
+itens,equipe_nova,3,reg_logistica,1625,402,41,{'m__C': 1.0}
+itens,equipe_nova,3,mlp,1625,402,41,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (10,)}"
+itens,equipe_nova,3,gradient_boosting,1625,402,41,"{'m__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 100}"
+itens,equipe_nova,3,mlp_curva,1625,402,41,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+itens,equipe_nova,4,burndown_ideal,1689,338,43,
+itens,equipe_nova,4,burndown_calibrado,1689,338,43,w=7.018; b=-0.772
+itens,equipe_nova,4,monte_carlo,1689,338,43,
+itens,equipe_nova,4,reg_logistica,1689,338,43,{'m__C': 10.0}
+itens,equipe_nova,4,mlp,1689,338,43,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (10,)}"
+itens,equipe_nova,4,gradient_boosting,1689,338,43,"{'m__learning_rate': 0.1, 'm__max_depth': 2, 'm__max_iter': 100}"
+itens,equipe_nova,4,mlp_curva,1689,338,43,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+sem_DM,equipe_nova,0,burndown_ideal,731,191,15,
+sem_DM,equipe_nova,0,burndown_calibrado,731,191,15,w=5.956; b=-0.622
+sem_DM,equipe_nova,0,monte_carlo,731,191,15,
+sem_DM,equipe_nova,0,reg_logistica,731,191,15,{'m__C': 0.1}
+sem_DM,equipe_nova,0,mlp,731,191,15,"{'m__alpha': 0.01, 'm__hidden_layer_sizes': (10,)}"
+sem_DM,equipe_nova,0,gradient_boosting,731,191,15,"{'m__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 100}"
+sem_DM,equipe_nova,0,mlp_curva,731,191,15,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+sem_DM,equipe_nova,1,burndown_ideal,797,125,26,
+sem_DM,equipe_nova,1,burndown_calibrado,797,125,26,w=5.784; b=-0.781
+sem_DM,equipe_nova,1,monte_carlo,797,125,26,
+sem_DM,equipe_nova,1,reg_logistica,797,125,26,{'m__C': 0.1}
+sem_DM,equipe_nova,1,mlp,797,125,26,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+sem_DM,equipe_nova,1,gradient_boosting,797,125,26,"{'m__learning_rate': 0.05, 'm__max_depth': 3, 'm__max_iter': 100}"
+sem_DM,equipe_nova,1,mlp_curva,797,125,26,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+sem_DM,equipe_nova,2,burndown_ideal,677,245,16,
+sem_DM,equipe_nova,2,burndown_calibrado,677,245,16,w=6.133; b=-0.546
+sem_DM,equipe_nova,2,monte_carlo,677,245,16,
+sem_DM,equipe_nova,2,reg_logistica,677,245,16,{'m__C': 0.1}
+sem_DM,equipe_nova,2,mlp,677,245,16,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (15,)}"
+sem_DM,equipe_nova,2,gradient_boosting,677,245,16,"{'m__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 100}"
+sem_DM,equipe_nova,2,mlp_curva,677,245,16,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+sem_DM,equipe_nova,3,burndown_ideal,709,213,32,
+sem_DM,equipe_nova,3,burndown_calibrado,709,213,32,w=6.288; b=-0.819
+sem_DM,equipe_nova,3,monte_carlo,709,213,32,
+sem_DM,equipe_nova,3,reg_logistica,709,213,32,{'m__C': 0.1}
+sem_DM,equipe_nova,3,mlp,709,213,32,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (10,)}"
+sem_DM,equipe_nova,3,gradient_boosting,709,213,32,"{'m__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 100}"
+sem_DM,equipe_nova,3,mlp_curva,709,213,32,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
+sem_DM,equipe_nova,4,burndown_ideal,774,148,34,
+sem_DM,equipe_nova,4,burndown_calibrado,774,148,34,w=6.035; b=-0.909
+sem_DM,equipe_nova,4,monte_carlo,774,148,34,
+sem_DM,equipe_nova,4,reg_logistica,774,148,34,{'m__C': 0.1}
+sem_DM,equipe_nova,4,mlp,774,148,34,"{'m__alpha': 0.001, 'm__hidden_layer_sizes': (10,)}"
+sem_DM,equipe_nova,4,gradient_boosting,774,148,34,"{'m__learning_rate': 0.05, 'm__max_depth': 2, 'm__max_iter': 100}"
+sem_DM,equipe_nova,4,mlp_curva,774,148,34,"{'m__alpha': 0.1, 'm__hidden_layer_sizes': (5,)}"
